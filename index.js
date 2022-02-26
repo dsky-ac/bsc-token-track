@@ -18,10 +18,11 @@ const crawlerContruct = new Crawler({
   }
 });
 
-const hour = dayjs().add(8, 'h').hour()
-const day = dayjs().date()
-const month = dayjs().month() + 1
-const year = dayjs().year()
+const dayFn = dayjs().add(8, 'h');
+const hour = dayFn.hour()
+const day = dayFn.date()
+const month = dayFn.month() + 1
+const year = dayFn.year()
 
 async function saveData(array) {
   const fileName = `data/${year}-${month}-${day}-${hour}.json`
