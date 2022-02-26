@@ -18,7 +18,7 @@ const crawlerContruct = new Crawler({
   }
 });
 
-const hour = dayjs().hour()
+const hour = dayjs().add(8, 'h').hour()
 const day = dayjs().date()
 const month = dayjs().month() + 1
 const year = dayjs().year()
