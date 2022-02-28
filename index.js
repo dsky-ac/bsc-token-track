@@ -46,7 +46,7 @@ crawlerContruct.queue([{
         const tdArray = $(ele).find('td').get();
         const coinName = $(tdArray[1]).find('.text-primary').text();
         const address =  $(tdArray[1]).find('.text-primary').attr('href').slice(7);
-        const price = $(tdArray[2]).remove('div').text().slice(0, 8);
+        const price = $(tdArray[2]).remove('div').text().slice(0, 7);
         const changeEle = $(tdArray[3]).children('span').remove('i');
         const change = $(changeEle).text().trim();
         const changeAttr = $(tdArray[3]).find('i').attr('class');
