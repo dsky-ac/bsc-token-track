@@ -25,12 +25,14 @@ const month = dayFn.month() + 1
 const year = dayFn.year()
 
 async function saveData(array) {
-  const fileName = `data/${year}-${month}-${day}-${hour}.json`
-  await fs.writeFileSync(fileName, '');
-  const adapter = new FileSync(fileName);
-  const db = await low(adapter);
-  db.defaults({data: []}).write();
-  db.set('data', array).write();
+  if(array.length){
+    const fileName = `data/${year}-${month}-${day}-${hour}.json`
+    await fs.writeFileSync(fileName, '');
+    const adapter = new FileSync(fileName);
+    const db = await low(adapter);
+    db.defaults({data: []}).write();
+    db.set('data', array).write();
+  }
 }
 crawlerContruct.queue([{
   uri: `https://bscscan.com/tokens?sort=percent_change_24h&order=desc`,
