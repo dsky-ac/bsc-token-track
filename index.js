@@ -58,7 +58,7 @@ crawlerContruct.queue([{
         }
         const volume = $(tdArray[4]).text();
         const marketCap = $(tdArray[5]).text().trim();
-        const holders = $(tdArray[6]).text();
+        const holders = $(tdArray[7]).text();
         // save year_month_day_hour.json
         array.push({coinName, address, price, change, isUp, volume, marketCap, holders})
       })
