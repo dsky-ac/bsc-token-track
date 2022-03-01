@@ -4,10 +4,10 @@
       "coinName": "Ethereum Meta (ETHM)",
       "address": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca",
       "price": "$0.000.",
-      "change": "96.93%",
+      "change": "95.29%",
       "isUp": true,
-      "volume": "$7,526.00",
-      "marketCap": "$1,273,845.00",
+      "volume": "$7,513.00",
+      "marketCap": "$1,269,575.00",
       "holders": "40,952"
     },
     {
@@ -33,11 +33,11 @@
     {
       "coinName": "StandardBTCHashrateToken (BTCST)",
       "address": "0x78650b139471520656b9e7aa7a5e9276814a38e9",
-      "price": "$18.400",
-      "change": "38.11%",
+      "price": "$18.490",
+      "change": "38.31%",
       "isUp": true,
-      "volume": "$35,240,349.00",
-      "marketCap": "$134,351,627.00",
+      "volume": "$35,529,105.00",
+      "marketCap": "$134,171,911.00",
       "holders": "19,262"
     },
     {
@@ -53,11 +53,11 @@
     {
       "coinName": "Binance-Peg Kyber Network Crystal Token (KNC)",
       "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
-      "price": "$2.470.",
-      "change": "33.51%",
+      "price": "$2.460.",
+      "change": "32.92%",
       "isUp": true,
-      "volume": "$42,366,770.00",
-      "marketCap": "$251,216,304.00",
+      "volume": "$42,624,873.00",
+      "marketCap": "$252,619,467.00",
       "holders": "3,072"
     },
     {
@@ -83,11 +83,11 @@
     {
       "coinName": "VFOX (VFOX)",
       "address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
-      "price": "$0.5055",
-      "change": "24.88%",
+      "price": "$0.5044",
+      "change": "24.56%",
       "isUp": true,
-      "volume": "$76,008.00",
-      "marketCap": "$10,643,444.00",
+      "volume": "$75,851.00",
+      "marketCap": "$10,589,702.00",
       "holders": "2,565"
     },
     {
@@ -103,10 +103,10 @@
     {
       "coinName": "Elemon Token (ELMON)",
       "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
-      "price": "$0.1721",
-      "change": "24.49%",
+      "price": "$0.1712",
+      "change": "23.16%",
       "isUp": true,
-      "volume": "$1,875,404.00",
+      "volume": "$1,869,795.00",
       "marketCap": "--",
       "holders": "43,032"
     },
@@ -131,16 +131,6 @@
       "holders": "2,548"
     },
     {
-      "coinName": "FLOKI (FLOKI)",
-      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
-      "price": "$0.000.",
-      "change": "21.39%",
-      "isUp": true,
-      "volume": "$6,490,218.00",
-      "marketCap": "--",
-      "holders": "342,804"
-    },
-    {
       "coinName": "Cream (CREAM)",
       "address": "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888",
       "price": "$60.317",
@@ -161,23 +151,33 @@
       "holders": "20,363"
     },
     {
+      "coinName": "FLOKI (FLOKI)",
+      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+      "price": "$0.000.",
+      "change": "21.01%",
+      "isUp": true,
+      "volume": "$6,445,418.00",
+      "marketCap": "--",
+      "holders": "342,804"
+    },
+    {
       "coinName": "2local Token (2LC)",
       "address": "0x11f6ecc9e2658627e0876212f1078b9f84d3196e",
       "price": "$0.0001",
-      "change": "20.90%",
+      "change": "20.91%",
       "isUp": true,
-      "volume": "$286,223.00",
-      "marketCap": "$154,870.00",
+      "volume": "$286,496.00",
+      "marketCap": "$154,899.00",
       "holders": "27,087"
     },
     {
       "coinName": "QANX Token (QANX)",
       "address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
-      "price": "$0.0513",
-      "change": "20.89%",
+      "price": "$0.0510",
+      "change": "20.35%",
       "isUp": true,
-      "volume": "$880,630.00",
-      "marketCap": "$68,190,403.00",
+      "volume": "$879,382.00",
+      "marketCap": "$67,590,083.00",
       "holders": "18,015"
     },
     {
@@ -191,33 +191,33 @@
       "holders": "719"
     },
     {
-      "coinName": "RFOX (RFOX)",
-      "address": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
-      "price": "$0.0544",
-      "change": "19.50%",
-      "isUp": true,
-      "volume": "$2,409,323.00",
-      "marketCap": "$78,783,389.00",
-      "holders": "12,665"
-    },
-    {
       "coinName": "hoge.finance (HOGE)",
       "address": "0xa4fffc757e8c4f24e7b209c033c123d20983ad40",
       "price": "$0.0001",
-      "change": "19.06%",
+      "change": "19.32%",
       "isUp": true,
-      "volume": "$143,604.00",
-      "marketCap": "$33,207,204.00",
+      "volume": "$150,980.00",
+      "marketCap": "$33,144,441.00",
       "holders": "15,479"
+    },
+    {
+      "coinName": "RFOX (RFOX)",
+      "address": "0x0a3a21356793b49154fd3bbe91cbc2a16c0457f5",
+      "price": "$0.0542",
+      "change": "19.11%",
+      "isUp": true,
+      "volume": "$2,404,190.00",
+      "marketCap": "$78,695,535.00",
+      "holders": "12,665"
     },
     {
       "coinName": "JUST (JST)",
       "address": "0xea998d307aca04d4f0a3b3036aba84ae2e409c0a",
       "price": "$0.0539",
-      "change": "18.41%",
+      "change": "18.29%",
       "isUp": true,
-      "volume": "$235,956,968.00",
-      "marketCap": "$393,588,924.00",
+      "volume": "$235,952,003.00",
+      "marketCap": "$393,548,435.00",
       "holders": "592"
     },
     {
@@ -231,54 +231,44 @@
       "holders": "61,716"
     },
     {
-      "coinName": "Rubic (BRBC)",
-      "address": "0x8e3bcc334657560253b83f08331d85267316e08a",
-      "price": "$0.2004",
-      "change": "18.21%",
+      "coinName": "Lucky Unicorn Token (L99)",
+      "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
+      "price": "$0.0021",
+      "change": "17.38%",
       "isUp": true,
-      "volume": "$1,525,691.00",
-      "marketCap": "$22,133,669.00",
-      "holders": "4,645"
+      "volume": "$18,418.00",
+      "marketCap": "--",
+      "holders": "8,086"
     },
     {
       "coinName": "Orica (ORI)",
       "address": "0x3045d1a840364c3657b8df6c6f86a4359c23472b",
-      "price": "$0.0184",
-      "change": "17.89%",
+      "price": "$0.0183",
+      "change": "17.34%",
       "isUp": true,
-      "volume": "$2,067.00",
+      "volume": "$2,045.00",
       "marketCap": "--",
       "holders": "10,864"
-    },
-    {
-      "coinName": "Lucky Unicorn Token (L99)",
-      "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
-      "price": "$0.0021",
-      "change": "17.21%",
-      "isUp": true,
-      "volume": "$17,779.00",
-      "marketCap": "--",
-      "holders": "8,086"
     },
     {
       "coinName": "ArgonToken (ARGON)",
       "address": "0x851f7a700c5d67db59612b871338a85526752c25",
       "price": "$0.0077",
-      "change": "17.12%",
+      "change": "16.76%",
       "isUp": true,
-      "volume": "$37,064.00",
-      "marketCap": "$522,398.00",
+      "volume": "$36,935.00",
+      "marketCap": "$523,977.00",
       "holders": "28,492"
     },
     {
-      "coinName": "Binance-Peg Cartesi Token (CTSI)",
-      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
-      "price": "$0.3968",
-      "change": "16.83%",
+      "coinName": "pTokens GALA (GALA)",
+      "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
+      "price": "$0.2635",
+      "change": "16.74%",
       "isUp": true,
-      "volume": "$15,497,407.00",
-      "marketCap": "$206,616,881.00",
-      "holders": "5,269"
+      "volume": "$1,006,916,876.00",
+      "marketCap": "$1,974,354,399.00",
+      "holders": "42,797"
     },
     {
       "coinName": "Prometeus (PROM)",
@@ -291,6 +281,16 @@
       "holders": "4,267"
     },
     {
+      "coinName": "Binance-Peg Cartesi Token (CTSI)",
+      "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+      "price": "$0.3960",
+      "change": "16.70%",
+      "isUp": true,
+      "volume": "$15,479,170.00",
+      "marketCap": "$205,699,284.00",
+      "holders": "5,269"
+    },
+    {
       "coinName": "Talkado (TALK)",
       "address": "0x7606267A4bfff2c5010c92924348C3e4221955f2",
       "price": "$0.000.",
@@ -299,26 +299,6 @@
       "volume": "$22,832.00",
       "marketCap": "--",
       "holders": "3,972"
-    },
-    {
-      "coinName": "SpookyShiba (SPOOKYSHIBA)",
-      "address": "0xed74Bc5DC139356E08dE28143996F5eF6e4334a4",
-      "price": "$0.000.",
-      "change": "16.65%",
-      "isUp": true,
-      "volume": "$39,310.00",
-      "marketCap": "--",
-      "holders": "30,973"
-    },
-    {
-      "coinName": "Fantom (FTM)",
-      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
-      "price": "$1.830.",
-      "change": "16.46%",
-      "isUp": true,
-      "volume": "$1,011,425,849.00",
-      "marketCap": "$4,670,155,300.00",
-      "holders": "62,842"
     },
     {
       "coinName": "Binance-Peg Cosmos Token (ATOM)",
@@ -341,6 +321,26 @@
       "holders": "43,576"
     },
     {
+      "coinName": "Fantom (FTM)",
+      "address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+      "price": "$1.830.",
+      "change": "16.27%",
+      "isUp": true,
+      "volume": "$1,013,832,366.00",
+      "marketCap": "$4,649,460,108.00",
+      "holders": "62,842"
+    },
+    {
+      "coinName": "WEB3 Inu (WEB3)",
+      "address": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
+      "price": "$0.000.",
+      "change": "16.22%",
+      "isUp": true,
+      "volume": "$347,853.00",
+      "marketCap": "--",
+      "holders": "342,254"
+    },
+    {
       "coinName": "Binance-Peg Zcash Token (ZEC)",
       "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
       "price": "$117.25",
@@ -351,24 +351,24 @@
       "holders": "4,505"
     },
     {
-      "coinName": "Curate on BSC (XCUR)",
-      "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
-      "price": "$1.760.",
-      "change": "16.04%",
+      "coinName": "SpookyShiba (SPOOKYSHIBA)",
+      "address": "0xed74Bc5DC139356E08dE28143996F5eF6e4334a4",
+      "price": "$0.000.",
+      "change": "15.74%",
       "isUp": true,
-      "volume": "$485,743.00",
-      "marketCap": "$14,990,966.00",
-      "holders": "18,469"
+      "volume": "$39,414.00",
+      "marketCap": "--",
+      "holders": "30,973"
     },
     {
-      "coinName": "pTokens GALA (GALA)",
-      "address": "0x7ddee176f665cd201f93eede625770e2fd911990",
-      "price": "$0.2620",
-      "change": "15.99%",
+      "coinName": "Curate on BSC (XCUR)",
+      "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
+      "price": "$1.750.",
+      "change": "15.68%",
       "isUp": true,
-      "volume": "$997,918,042.00",
-      "marketCap": "$1,968,896,569.00",
-      "holders": "42,797"
+      "volume": "$465,917.00",
+      "marketCap": "$14,980,388.00",
+      "holders": "18,469"
     },
     {
       "coinName": "SYL (SYL)",
@@ -381,16 +381,6 @@
       "holders": "24,779"
     },
     {
-      "coinName": "WEB3 Inu (WEB3)",
-      "address": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
-      "price": "$0.000.",
-      "change": "15.39%",
-      "isUp": true,
-      "volume": "$348,614.00",
-      "marketCap": "--",
-      "holders": "342,254"
-    },
-    {
       "coinName": "Linear Token (LINA)",
       "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
       "price": "$0.0207",
@@ -399,36 +389,6 @@
       "volume": "$359,754.00",
       "marketCap": "--",
       "holders": "20,970"
-    },
-    {
-      "coinName": "Litentry (LIT)",
-      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
-      "price": "$1.460.",
-      "change": "15.01%",
-      "isUp": true,
-      "volume": "$8,808,908.00",
-      "marketCap": "$45,253,556.00",
-      "holders": "12,564"
-    },
-    {
-      "coinName": "Zilliqa (ZIL)",
-      "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
-      "price": "$0.0448",
-      "change": "14.89%",
-      "isUp": true,
-      "volume": "$56,225,518.00",
-      "marketCap": "$627,526,111.00",
-      "holders": "27,752"
-    },
-    {
-      "coinName": "Lympo Market Token (LMT)",
-      "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
-      "price": "$0.0038",
-      "change": "14.87%",
-      "isUp": true,
-      "volume": "$3,179.00",
-      "marketCap": "$583,651.00",
-      "holders": "5,456"
     },
     {
       "coinName": "Trust Wallet (TWT)",
@@ -441,34 +401,64 @@
       "holders": "269,090"
     },
     {
-      "coinName": "Binance-Peg Celer Token (CELR)",
-      "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
-      "price": "$0.0434",
-      "change": "14.67%",
+      "coinName": "Lympo Market Token (LMT)",
+      "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
+      "price": "$0.0037",
+      "change": "14.62%",
       "isUp": true,
-      "volume": "$53,749,069.00",
-      "marketCap": "$245,230,318.00",
-      "holders": "28,849"
+      "volume": "$3,171.00",
+      "marketCap": "$581,231.00",
+      "holders": "5,456"
+    },
+    {
+      "coinName": "Zilliqa (ZIL)",
+      "address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
+      "price": "$0.0447",
+      "change": "14.59%",
+      "isUp": true,
+      "volume": "$56,418,040.00",
+      "marketCap": "$625,166,629.00",
+      "holders": "27,752"
     },
     {
       "coinName": "Binance-Peg COTI Token (COTI)",
       "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
-      "price": "$0.2275",
-      "change": "14.63%",
+      "price": "$0.2273",
+      "change": "14.56%",
       "isUp": true,
-      "volume": "$26,923,700.00",
-      "marketCap": "$238,769,365.00",
+      "volume": "$26,903,049.00",
+      "marketCap": "$238,024,751.00",
       "holders": "7,858"
     },
     {
-      "coinName": "PolkastarterToken (POLS)",
-      "address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
-      "price": "$1.380.",
-      "change": "14.54%",
+      "coinName": "Automata (ATA)",
+      "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+      "price": "$0.3973",
+      "change": "14.47%",
       "isUp": true,
-      "volume": "$6,355,667.00",
-      "marketCap": "$121,865,462.00",
-      "holders": "18,737"
+      "volume": "$6,743,320.00",
+      "marketCap": "$79,779,398.00",
+      "holders": "20,194"
+    },
+    {
+      "coinName": "Litentry (LIT)",
+      "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+      "price": "$1.450.",
+      "change": "14.43%",
+      "isUp": true,
+      "volume": "$8,807,105.00",
+      "marketCap": "$45,053,259.00",
+      "holders": "12,564"
+    },
+    {
+      "coinName": "Binance-Peg Celer Token (CELR)",
+      "address": "0x1f9f6a696c6fd109cd3956f45dc709d2b3902163",
+      "price": "$0.0433",
+      "change": "14.43%",
+      "isUp": true,
+      "volume": "$54,183,821.00",
+      "marketCap": "$244,111,411.00",
+      "holders": "28,849"
     },
     {
       "coinName": "BakeryToken (BAKE)",
@@ -479,6 +469,16 @@
       "volume": "$25,928,898.00",
       "marketCap": "$115,624,851.00",
       "holders": "124,792"
+    },
+    {
+      "coinName": "Newscrypto (NWC)",
+      "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+      "price": "$0.2080",
+      "change": "14.29%",
+      "isUp": true,
+      "volume": "$4,665,852.00",
+      "marketCap": "$30,835,564.00",
+      "holders": "6,573"
     },
     {
       "coinName": "THUGS (THUGS)",
