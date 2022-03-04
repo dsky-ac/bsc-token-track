@@ -33,20 +33,20 @@
     {
       "coinName": "IOI Token via ChainPort.io (IOI)",
       "address": "0x959229d94c9060552daea25ac17193bca65d7884",
-      "price": "$0.9369",
-      "change": "31.29%",
+      "price": "$0.9405",
+      "change": "30.46%",
       "isUp": true,
-      "volume": "$3,627,016.00",
-      "marketCap": "$6,825,731.00",
+      "volume": "$3,669,565.00",
+      "marketCap": "$6,843,722.00",
       "holders": "2,605"
     },
     {
       "coinName": "Orica (ORI)",
       "address": "0x3045d1a840364c3657b8df6c6f86a4359c23472b",
-      "price": "$0.0180",
-      "change": "28.89%",
+      "price": "$0.0177",
+      "change": "25.59%",
       "isUp": true,
-      "volume": "$13,734.00",
+      "volume": "$13,928.00",
       "marketCap": "--",
       "holders": "10,882"
     },
@@ -104,9 +104,9 @@
       "coinName": "GFORCE v2 (GFCE)",
       "address": "0x5f136383e230f972739fae2e81e7e774afe64c66",
       "price": "$1.230.",
-      "change": "9.91%",
+      "change": "10.13%",
       "isUp": true,
-      "volume": "$1,363.00",
+      "volume": "$1,366.00",
       "marketCap": "--",
       "holders": "776"
     },
@@ -124,7 +124,7 @@
       "coinName": "France REV Finance (FRF)",
       "address": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
       "price": "$0.000.",
-      "change": "8.09%",
+      "change": "8.14%",
       "isUp": true,
       "volume": "$3,301.00",
       "marketCap": "--",
@@ -134,19 +134,19 @@
       "coinName": "Talkado (TALK)",
       "address": "0x7606267A4bfff2c5010c92924348C3e4221955f2",
       "price": "$0.000.",
-      "change": "7.35%",
+      "change": "7.60%",
       "isUp": true,
-      "volume": "$8,165.00",
+      "volume": "$8,182.00",
       "marketCap": "--",
       "holders": "3,974"
     },
     {
       "coinName": "CBK (CBK)",
       "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
-      "price": "$0.0464",
-      "change": "6.31%",
+      "price": "$0.0465",
+      "change": "6.77%",
       "isUp": true,
-      "volume": "$5,982.00",
+      "volume": "$5,992.00",
       "marketCap": "--",
       "holders": "1,476"
     },
@@ -183,11 +183,11 @@
     {
       "coinName": "bZx Protocol Token (BZRX)",
       "address": "0x4b87642aedf10b642be4663db842ecc5a88bf5ba",
-      "price": "$0.1323",
-      "change": "4.75%",
+      "price": "$0.1326",
+      "change": "5.01%",
       "isUp": true,
-      "volume": "$2,669.00",
-      "marketCap": "$55,011,891.00",
+      "volume": "$2,674.00",
+      "marketCap": "$55,335,777.00",
       "holders": "2,029"
     },
     {
@@ -209,6 +209,16 @@
       "volume": "$8,915,285.00",
       "marketCap": "$14,924,541.00",
       "holders": "2,137"
+    },
+    {
+      "coinName": "AlpacaToken (ALPACA)",
+      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+      "price": "$0.4031",
+      "change": "3.92%",
+      "isUp": true,
+      "volume": "$6,457,313.00",
+      "marketCap": "$61,980,515.00",
+      "holders": "68,462"
     },
     {
       "coinName": "Cream (CREAM)",
@@ -241,13 +251,33 @@
       "holders": "45,925"
     },
     {
+      "coinName": "DeFi For You. (DFY)",
+      "address": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
+      "price": "$0.0131",
+      "change": "3.22%",
+      "isUp": true,
+      "volume": "$149,537.00",
+      "marketCap": "$5,530,755.00",
+      "holders": "51,289"
+    },
+    {
+      "coinName": "UBUToken (UBU)",
+      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
+      "price": "$0.0095",
+      "change": "3.22%",
+      "isUp": true,
+      "volume": "$33,768.00",
+      "marketCap": "$76,300.00",
+      "holders": "3,053"
+    },
+    {
       "coinName": "SwftCoin (SWFTC)",
       "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
       "price": "$0.0025",
-      "change": "3.22%",
+      "change": "3.18%",
       "isUp": true,
-      "volume": "$12,212,921.00",
-      "marketCap": "$16,413,819.00",
+      "volume": "$12,226,104.00",
+      "marketCap": "$16,382,677.00",
       "holders": "758"
     },
     {
@@ -259,16 +289,6 @@
       "volume": "$10,657.00",
       "marketCap": "--",
       "holders": "2,472"
-    },
-    {
-      "coinName": "DeFi For You. (DFY)",
-      "address": "0xd98560689c6e748dc37bc410b4d3096b1aa3d8c2",
-      "price": "$0.0131",
-      "change": "3.15%",
-      "isUp": true,
-      "volume": "$149,484.00",
-      "marketCap": "$5,530,712.00",
-      "holders": "51,289"
     },
     {
       "coinName": "Immutable (DARA)",
@@ -291,54 +311,44 @@
       "holders": "32,996"
     },
     {
-      "coinName": "TORG (TORG)",
-      "address": "0xcea59dce6a6d73a24e6d6944cfabc330814c098a",
-      "price": "$0.0007",
-      "change": "2.77%",
-      "isUp": true,
-      "volume": "$5,655,799.00",
-      "marketCap": "--",
-      "holders": "31,996"
-    },
-    {
-      "coinName": "Easy V2 (EZ)",
-      "address": "0x5512014efa6cd57764fa743756f7a6ce3358cc83",
-      "price": "$2.190.",
-      "change": "2.48%",
-      "isUp": true,
-      "volume": "$485,943.00",
-      "marketCap": "--",
-      "holders": "3,475"
-    },
-    {
       "coinName": "PizzaSwap (PIZZA)",
       "address": "0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb",
       "price": "$0.0712",
-      "change": "2.30%",
+      "change": "2.45%",
       "isUp": true,
-      "volume": "$19,522.00",
+      "volume": "$19,745.00",
       "marketCap": "--",
       "holders": "4,009"
     },
     {
-      "coinName": "AlpacaToken (ALPACA)",
-      "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-      "price": "$0.3945",
-      "change": "1.91%",
-      "isUp": true,
-      "volume": "$5,903,105.00",
-      "marketCap": "$60,394,087.00",
-      "holders": "68,462"
-    },
-    {
       "coinName": "Tokocrypto Token (TKO)",
       "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
-      "price": "$0.7168",
-      "change": "1.81%",
+      "price": "$0.7222",
+      "change": "2.44%",
       "isUp": true,
-      "volume": "$19,478,710.00",
-      "marketCap": "$53,739,159.00",
+      "volume": "$19,625,143.00",
+      "marketCap": "$54,006,104.00",
       "holders": "43,140"
+    },
+    {
+      "coinName": "Easy V2 (EZ)",
+      "address": "0x5512014efa6cd57764fa743756f7a6ce3358cc83",
+      "price": "$2.200.",
+      "change": "2.37%",
+      "isUp": true,
+      "volume": "$486,808.00",
+      "marketCap": "--",
+      "holders": "3,475"
+    },
+    {
+      "coinName": "TORG (TORG)",
+      "address": "0xcea59dce6a6d73a24e6d6944cfabc330814c098a",
+      "price": "$0.0007",
+      "change": "2.12%",
+      "isUp": true,
+      "volume": "$5,650,884.00",
+      "marketCap": "--",
+      "holders": "31,996"
     },
     {
       "coinName": "Binance-Peg NEAR Protocol (NEAR)",
@@ -356,8 +366,8 @@
       "price": "$0.0002",
       "change": "1.55%",
       "isUp": true,
-      "volume": "$4,463,627.00",
-      "marketCap": "$15,525,607.00",
+      "volume": "$4,475,023.00",
+      "marketCap": "$15,539,884.00",
       "holders": "197,274"
     },
     {
@@ -381,14 +391,14 @@
       "holders": "91,294"
     },
     {
-      "coinName": "UBUToken (UBU)",
-      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
-      "price": "$0.0095",
-      "change": "1.01%",
+      "coinName": "LunaChow on xDai from xDai (LUCHOW)",
+      "address": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
+      "price": "$0.000.",
+      "change": "1.07%",
       "isUp": true,
-      "volume": "$33,693.00",
-      "marketCap": "$76,261.00",
-      "holders": "3,053"
+      "volume": "$751,610.00",
+      "marketCap": "$1,028,658.00",
+      "holders": "3,439"
     },
     {
       "coinName": "Venus SXP (vSXP)",
@@ -443,12 +453,22 @@
     {
       "coinName": "SAITO (SAITO)",
       "address": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
-      "price": "$0.0341",
-      "change": "0.47%",
+      "price": "$0.0342",
+      "change": "0.52%",
       "isUp": true,
-      "volume": "$1,032,945.00",
-      "marketCap": "$59,813,415.00",
+      "volume": "$1,033,125.00",
+      "marketCap": "$59,894,619.00",
       "holders": "7,414"
+    },
+    {
+      "coinName": "Binance-Peg COTI Token (COTI)",
+      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+      "price": "$0.2311",
+      "change": "0.40%",
+      "isUp": true,
+      "volume": "$21,056,051.00",
+      "marketCap": "$241,919,010.00",
+      "holders": "7,904"
     },
     {
       "coinName": "Space Token (SPACE)",
@@ -479,26 +499,6 @@
       "volume": "$107,514,815.00",
       "marketCap": "$1,878,042,599.00",
       "holders": "2,814"
-    },
-    {
-      "coinName": "Wrapped UST Token (UST)",
-      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-      "price": "$1.0047",
-      "change": "0.19%",
-      "isUp": true,
-      "volume": "$681,126,690.00",
-      "marketCap": "$13,445,747,047.00",
-      "holders": "62,541"
-    },
-    {
-      "coinName": "PontoonToken (TOON)",
-      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-      "price": "$0.1344",
-      "change": "0.12%",
-      "isUp": true,
-      "volume": "$121,383.00",
-      "marketCap": "--",
-      "holders": "1,981"
     }
   ]
 }
