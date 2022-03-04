@@ -24,7 +24,7 @@
       "coinName": "VANCI.FINANCE (VANCII)",
       "address": "0x8f9b482b74afc0b7e8aefc704f1f04df208ee332",
       "price": "$6.490.",
-      "change": "37.58%",
+      "change": "37.52%",
       "isUp": true,
       "volume": "$0.00",
       "marketCap": "--",
@@ -43,10 +43,10 @@
     {
       "coinName": "Orica (ORI)",
       "address": "0x3045d1a840364c3657b8df6c6f86a4359c23472b",
-      "price": "$0.0185",
-      "change": "29.79%",
+      "price": "$0.0184",
+      "change": "29.10%",
       "isUp": true,
-      "volume": "$23,294.00",
+      "volume": "$23,202.00",
       "marketCap": "--",
       "holders": "10,891"
     },
@@ -63,12 +63,22 @@
     {
       "coinName": "CafeSwap Token (BREW)",
       "address": "0x790be81c3ca0e53974be2688cdb954732c9862e1",
-      "price": "$0.0237",
-      "change": "18.36%",
+      "price": "$0.0235",
+      "change": "17.69%",
       "isUp": true,
       "volume": "$13.00",
-      "marketCap": "$274,012.00",
+      "marketCap": "$272,867.00",
       "holders": "8,915"
+    },
+    {
+      "coinName": "CORE MultiChain Token (CMCX)",
+      "address": "0xb2343143f814639c9b1f42961c698247171df34a",
+      "price": "$0.0229",
+      "change": "16.73%",
+      "isUp": true,
+      "volume": "$1,665,073.00",
+      "marketCap": "--",
+      "holders": "8,109"
     },
     {
       "coinName": "Space Token (SPACE)",
@@ -94,51 +104,31 @@
       "coinName": "WINk (WIN)",
       "address": "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99",
       "price": "$0.0003",
-      "change": "12.38%",
+      "change": "11.94%",
       "isUp": true,
-      "volume": "$2,533,165.00",
+      "volume": "$2,524,290.00",
       "marketCap": "--",
       "holders": "59,686"
-    },
-    {
-      "coinName": "ClinTex (CTI)",
-      "address": "0x3f670f65b9ce89b82e82121fd68c340ac22c08d6",
-      "price": "$0.0231",
-      "change": "9.80%",
-      "isUp": true,
-      "volume": "$365,007.00",
-      "marketCap": "$2,030,734.00",
-      "holders": "598"
     },
     {
       "coinName": "ACryptoS (ACS)",
       "address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
       "price": "$4.070.",
-      "change": "9.06%",
+      "change": "8.83%",
       "isUp": true,
-      "volume": "$8,815.00",
-      "marketCap": "$5,127,940.00",
+      "volume": "$8,798.00",
+      "marketCap": "$5,092,865.00",
       "holders": "7,509"
     },
     {
       "coinName": "GFORCE v2 (GFCE)",
       "address": "0x5f136383e230f972739fae2e81e7e774afe64c66",
       "price": "$1.200.",
-      "change": "7.77%",
+      "change": "7.37%",
       "isUp": true,
-      "volume": "$1,319.00",
+      "volume": "$1,315.00",
       "marketCap": "--",
       "holders": "776"
-    },
-    {
-      "coinName": "CORE MultiChain Token (CMCX)",
-      "address": "0xb2343143f814639c9b1f42961c698247171df34a",
-      "price": "$0.0225",
-      "change": "7.30%",
-      "isUp": true,
-      "volume": "$1,712,090.00",
-      "marketCap": "--",
-      "holders": "8,109"
     },
     {
       "coinName": "SHIRO INU (SHIR)",
@@ -151,6 +141,16 @@
       "holders": "5,657"
     },
     {
+      "coinName": "IOI Token via ChainPort.io (IOI)",
+      "address": "0x959229d94c9060552daea25ac17193bca65d7884",
+      "price": "$0.8936",
+      "change": "7.09%",
+      "isUp": true,
+      "volume": "$5,219,932.00",
+      "marketCap": "$6,459,182.00",
+      "holders": "2,606"
+    },
+    {
       "coinName": "Lucky Unicorn Token (L99)",
       "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
       "price": "$0.0020",
@@ -161,22 +161,12 @@
       "holders": "8,033"
     },
     {
-      "coinName": "UBUToken (UBU)",
-      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
-      "price": "$0.0099",
-      "change": "5.52%",
-      "isUp": true,
-      "volume": "$34,007.00",
-      "marketCap": "$79,666.00",
-      "holders": "3,054"
-    },
-    {
       "coinName": "France REV Finance (FRF)",
       "address": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
       "price": "$0.000.",
-      "change": "5.38%",
+      "change": "5.56%",
       "isUp": true,
-      "volume": "$3,213.00",
+      "volume": "$3,235.00",
       "marketCap": "--",
       "holders": "2,010"
     },
@@ -191,64 +181,44 @@
       "holders": "9,277"
     },
     {
+      "coinName": "Cake Monster (MONSTA)",
+      "address": "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f",
+      "price": "$0.0041",
+      "change": "5.06%",
+      "isUp": true,
+      "volume": "$51,901.00",
+      "marketCap": "$22,416,394.00",
+      "holders": "13,642"
+    },
+    {
       "coinName": "2local Token (2LC)",
       "address": "0x11f6ecc9e2658627e0876212f1078b9f84d3196e",
       "price": "$0.0001",
-      "change": "4.91%",
+      "change": "4.98%",
       "isUp": true,
-      "volume": "$213,915.00",
-      "marketCap": "$124,208.00",
+      "volume": "$214,367.00",
+      "marketCap": "$124,154.00",
       "holders": "27,075"
     },
     {
       "coinName": "Baby Floki Billionaire (BabyFB)",
       "address": "0x112fbe7f60329e9e2d232008e56f94d1582ae3bc",
       "price": "$0.000.",
-      "change": "4.78%",
+      "change": "4.46%",
       "isUp": true,
-      "volume": "$8,609.00",
+      "volume": "$8,632.00",
       "marketCap": "--",
       "holders": "46,004"
     },
     {
-      "coinName": "IOI Token via ChainPort.io (IOI)",
-      "address": "0x959229d94c9060552daea25ac17193bca65d7884",
-      "price": "$0.8714",
-      "change": "4.61%",
+      "coinName": "UBUToken (UBU)",
+      "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
+      "price": "$0.0096",
+      "change": "4.29%",
       "isUp": true,
-      "volume": "$5,027,493.00",
-      "marketCap": "$6,371,730.00",
-      "holders": "2,606"
-    },
-    {
-      "coinName": "Newscrypto (NWC)",
-      "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
-      "price": "$0.2114",
-      "change": "4.26%",
-      "isUp": true,
-      "volume": "$3,131,131.00",
-      "marketCap": "$31,729,743.00",
-      "holders": "6,570"
-    },
-    {
-      "coinName": "SakeToken (SAKE)",
-      "address": "0x8bd778b12b15416359a227f0533ce2d91844e1ed",
-      "price": "$0.0116",
-      "change": "4.15%",
-      "isUp": true,
-      "volume": "$23,575.00",
-      "marketCap": "$851,349.00",
-      "holders": "1,345"
-    },
-    {
-      "coinName": "O3 Swap Token (O3)",
-      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
-      "price": "$0.4224",
-      "change": "3.73%",
-      "isUp": true,
-      "volume": "$2,286,500.00",
-      "marketCap": "$15,043,434.00",
-      "holders": "28,038"
+      "volume": "$33,042.00",
+      "marketCap": "$79,666.00",
+      "holders": "3,054"
     },
     {
       "coinName": "LTO Network (LTO)",
@@ -261,6 +231,16 @@
       "holders": "4,050"
     },
     {
+      "coinName": "O3 Swap Token (O3)",
+      "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+      "price": "$0.4216",
+      "change": "3.26%",
+      "isUp": true,
+      "volume": "$2,295,121.00",
+      "marketCap": "$15,054,757.00",
+      "holders": "28,038"
+    },
+    {
       "coinName": "Bat True Dollar (BTD)",
       "address": "0xd1102332a213e21faf78b69c03572031f3552c33",
       "price": "$0.0805",
@@ -271,22 +251,42 @@
       "holders": "2,472"
     },
     {
-      "coinName": "Cake Monster (MONSTA)",
-      "address": "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f",
-      "price": "$0.0040",
-      "change": "2.90%",
+      "coinName": "ClinTex (CTI)",
+      "address": "0x3f670f65b9ce89b82e82121fd68c340ac22c08d6",
+      "price": "$0.0217",
+      "change": "2.98%",
       "isUp": true,
-      "volume": "$52,101.00",
-      "marketCap": "$22,243,700.00",
-      "holders": "13,642"
+      "volume": "$362,522.00",
+      "marketCap": "$1,823,472.00",
+      "holders": "598"
+    },
+    {
+      "coinName": "Newscrypto (NWC)",
+      "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+      "price": "$0.2103",
+      "change": "2.97%",
+      "isUp": true,
+      "volume": "$3,150,310.00",
+      "marketCap": "$31,375,921.00",
+      "holders": "6,570"
+    },
+    {
+      "coinName": "SakeToken (SAKE)",
+      "address": "0x8bd778b12b15416359a227f0533ce2d91844e1ed",
+      "price": "$0.0115",
+      "change": "2.75%",
+      "isUp": true,
+      "volume": "$23,421.00",
+      "marketCap": "$851,008.00",
+      "holders": "1,345"
     },
     {
       "coinName": "TORG (TORG)",
       "address": "0xcea59dce6a6d73a24e6d6944cfabc330814c098a",
       "price": "$0.0007",
-      "change": "2.85%",
+      "change": "2.51%",
       "isUp": true,
-      "volume": "$5,724,283.00",
+      "volume": "$5,748,303.00",
       "marketCap": "--",
       "holders": "31,993"
     },
@@ -294,9 +294,9 @@
       "coinName": "DeSpace Protocol (DES)",
       "address": "0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
       "price": "$0.0489",
-      "change": "2.52%",
+      "change": "2.36%",
       "isUp": true,
-      "volume": "$190,448.00",
+      "volume": "$188,996.00",
       "marketCap": "--",
       "holders": "3,077"
     },
@@ -309,16 +309,6 @@
       "volume": "$51,896,857.00",
       "marketCap": "$544,199,671.00",
       "holders": "2"
-    },
-    {
-      "coinName": "Contentos (COS)",
-      "address": "0x96dd399f9c3afda1f194182f71600f1b65946501",
-      "price": "$0.0144",
-      "change": "1.53%",
-      "isUp": true,
-      "volume": "$8,750,190.00",
-      "marketCap": "$49,545,897.00",
-      "holders": "5,924"
     },
     {
       "coinName": "Swipe (SXP)",
@@ -343,11 +333,11 @@
     {
       "coinName": "AlpacaToken (ALPACA)",
       "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-      "price": "$0.3857",
-      "change": "1.36%",
+      "price": "$0.3856",
+      "change": "1.27%",
       "isUp": true,
-      "volume": "$8,872,672.00",
-      "marketCap": "$59,345,541.00",
+      "volume": "$8,957,210.00",
+      "marketCap": "$59,258,394.00",
       "holders": "68,509"
     },
     {
@@ -357,8 +347,18 @@
       "change": "1.07%",
       "isUp": true,
       "volume": "$1,076.00",
-      "marketCap": "$132,875,758.00",
+      "marketCap": "$133,858,962.00",
       "holders": "938"
+    },
+    {
+      "coinName": "OwlDAO token (OWL)",
+      "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
+      "price": "$0.0123",
+      "change": "1.02%",
+      "isUp": true,
+      "volume": "$233.00",
+      "marketCap": "--",
+      "holders": "750"
     },
     {
       "coinName": "Venus SXP (vSXP)",
@@ -391,26 +391,6 @@
       "holders": "1,226"
     },
     {
-      "coinName": "Binance-Peg COTI Token (COTI)",
-      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
-      "price": "$0.2234",
-      "change": "0.66%",
-      "isUp": true,
-      "volume": "$22,885,504.00",
-      "marketCap": "$235,963,876.00",
-      "holders": "7,903"
-    },
-    {
-      "coinName": "bZx Protocol Token (BZRX)",
-      "address": "0x4b87642aedf10b642be4663db842ecc5a88bf5ba",
-      "price": "$0.1293",
-      "change": "0.63%",
-      "isUp": true,
-      "volume": "$1,413.00",
-      "marketCap": "$54,234,001.00",
-      "holders": "2,029"
-    },
-    {
       "coinName": "N1CEToken (N1CE)",
       "address": "0xc14df1e2fff3708816495e7364ff274aceecad91",
       "price": "$0.0074",
@@ -421,14 +401,34 @@
       "holders": "11,256"
     },
     {
-      "coinName": "OwlDAO token (OWL)",
-      "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
-      "price": "$0.0122",
-      "change": "0.49%",
+      "coinName": "beefy.finance (BIFI)",
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "price": "$1,833.",
+      "change": "0.50%",
       "isUp": true,
-      "volume": "$232.00",
-      "marketCap": "--",
-      "holders": "750"
+      "volume": "$1,704,205.00",
+      "marketCap": "$142,456,669.00",
+      "holders": "25,011"
+    },
+    {
+      "coinName": "Contentos (COS)",
+      "address": "0x96dd399f9c3afda1f194182f71600f1b65946501",
+      "price": "$0.0143",
+      "change": "0.50%",
+      "isUp": true,
+      "volume": "$8,866,002.00",
+      "marketCap": "$48,889,253.00",
+      "holders": "5,924"
+    },
+    {
+      "coinName": "Binance-Peg COTI Token (COTI)",
+      "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+      "price": "$0.2238",
+      "change": "0.48%",
+      "isUp": true,
+      "volume": "$23,324,274.00",
+      "marketCap": "$233,595,018.00",
+      "holders": "7,903"
     },
     {
       "coinName": "Wrapped UST Token (UST)",
@@ -441,44 +441,14 @@
       "holders": "62,608"
     },
     {
-      "coinName": "Twinci (TWIN)",
-      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
-      "price": "$0.1917",
-      "change": "0.45%",
-      "isUp": true,
-      "volume": "$57,875.00",
-      "marketCap": "$382,368.00",
-      "holders": "3,222"
-    },
-    {
-      "coinName": "LunaChow on xDai from xDai (LUCHOW)",
-      "address": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
-      "price": "$0.000.",
-      "change": "0.43%",
-      "isUp": true,
-      "volume": "$738,774.00",
-      "marketCap": "$1,018,000.00",
-      "holders": "3,439"
-    },
-    {
       "coinName": "Pylon Eco Token (PETN)",
       "address": "0x57457b5d725d85a70a3625d6a71818304e773618",
-      "price": "$0.5367",
-      "change": "0.39%",
+      "price": "$0.5363",
+      "change": "0.38%",
       "isUp": true,
-      "volume": "$802,979.00",
+      "volume": "$801,762.00",
       "marketCap": "--",
       "holders": "8,798"
-    },
-    {
-      "coinName": "Binance-Peg Pax Dollar Token (USDP)",
-      "address": "0xb3c11196a4f3b1da7c23d9fb0a3dde9c6340934f",
-      "price": "$1.0040",
-      "change": "0.36%",
-      "isUp": true,
-      "volume": "$19,401,383.00",
-      "marketCap": "$981,893,513.00",
-      "holders": "210"
     },
     {
       "coinName": "BIDR BEP20 (BIDR)",
@@ -491,14 +461,44 @@
       "holders": "5,800"
     },
     {
-      "coinName": "beefy.finance (BIFI)",
-      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-      "price": "$1,830.",
-      "change": "0.23%",
+      "coinName": "Twinci (TWIN)",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "price": "$0.1919",
+      "change": "0.31%",
       "isUp": true,
-      "volume": "$1,682,222.00",
-      "marketCap": "$142,759,904.00",
-      "holders": "25,011"
+      "volume": "$57,780.00",
+      "marketCap": "$382,144.00",
+      "holders": "3,222"
+    },
+    {
+      "coinName": "Antimatter.Finance Mapping Token (MATTER)",
+      "address": "0x1c9491865a1de77c5b6e19d2e6a5f1d7a6f2b25f",
+      "price": "$0.3586",
+      "change": "0.09%",
+      "isUp": true,
+      "volume": "$120,510.00",
+      "marketCap": "$11,224,719.00",
+      "holders": "11,928"
+    },
+    {
+      "coinName": "vSWAP.fi (vBSWAP)",
+      "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
+      "price": "$46.500",
+      "change": "0.07%",
+      "isUp": true,
+      "volume": "$235.00",
+      "marketCap": "--",
+      "holders": "7,173"
+    },
+    {
+      "coinName": "Venus BUSD (vBUSD)",
+      "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+      "price": "$0.0214",
+      "change": "0.06%",
+      "isUp": true,
+      "volume": "$0.00",
+      "marketCap": "$57,667,992.00",
+      "holders": "8,315"
     }
   ]
 }
