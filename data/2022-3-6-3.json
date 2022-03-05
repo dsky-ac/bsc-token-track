@@ -184,9 +184,9 @@
       "coinName": "Ltradex (LTEX)",
       "address": "0xBcB3ac7a3ceB2d0C5E162A03901d6D7bb8602912",
       "price": "$0.000.",
-      "change": "8.89%",
+      "change": "8.75%",
       "isUp": true,
-      "volume": "$1,901.00",
+      "volume": "$1,899.00",
       "marketCap": "--",
       "holders": "2,980"
     },
@@ -194,9 +194,9 @@
       "coinName": "WEB3 Inu (WEB3)",
       "address": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
       "price": "$0.000.",
-      "change": "7.89%",
+      "change": "8.66%",
       "isUp": true,
-      "volume": "$68,168.00",
+      "volume": "$70,119.00",
       "marketCap": "--",
       "holders": "342,019"
     },
@@ -223,10 +223,10 @@
     {
       "coinName": "WalletNow (WNOW)",
       "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
-      "price": "$0.0465",
-      "change": "7.14%",
+      "price": "$0.0464",
+      "change": "7.43%",
       "isUp": true,
-      "volume": "$16,710.00",
+      "volume": "$16,064.00",
       "marketCap": "--",
       "holders": "5,637"
     },
@@ -264,9 +264,9 @@
       "coinName": "France REV Finance (FRF)",
       "address": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
       "price": "$0.000.",
-      "change": "5.84%",
+      "change": "5.80%",
       "isUp": true,
-      "volume": "$3,172.00",
+      "volume": "$3,176.00",
       "marketCap": "--",
       "holders": "2,010"
     },
@@ -359,6 +359,16 @@
       "volume": "$127,683.00",
       "marketCap": "$657,027.00",
       "holders": "19,299"
+    },
+    {
+      "coinName": "loser coin (lowb)",
+      "address": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+      "price": "$0.000.",
+      "change": "4.03%",
+      "isUp": true,
+      "volume": "$488,339.00",
+      "marketCap": "--",
+      "holders": "144,132"
     },
     {
       "coinName": "TRON (TRX)",
@@ -489,16 +499,6 @@
       "volume": "$20,299.00",
       "marketCap": "$50,645,075.00",
       "holders": "13,646"
-    },
-    {
-      "coinName": "FEGtoken (FEG)",
-      "address": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
-      "price": "$0.000.",
-      "change": "2.39%",
-      "isUp": true,
-      "volume": "$547,982.00",
-      "marketCap": "$161,122,014.00",
-      "holders": "935,363"
     }
   ]
 }
