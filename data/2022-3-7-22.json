@@ -44,7 +44,7 @@
       "coinName": "CanYaCoin (CAN)",
       "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
       "price": "$0.0151",
-      "change": "29.45%",
+      "change": "28.89%",
       "isUp": true,
       "volume": "$24.00",
       "marketCap": "--",
@@ -64,10 +64,10 @@
       "coinName": "Cubiex (CBIX)",
       "address": "0x34681c1035f97e1edcccec5f142e02ff81a3a230",
       "price": "$0.0013",
-      "change": "25.35%",
+      "change": "24.71%",
       "isUp": true,
       "volume": "$3.00",
-      "marketCap": "$96,181.00",
+      "marketCap": "$95,778.00",
       "holders": "2,634"
     },
     {
@@ -141,16 +141,6 @@
       "holders": "1,139"
     },
     {
-      "coinName": "JulSwap (JulD)",
-      "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
-      "price": "$0.0206",
-      "change": "10.13%",
-      "isUp": true,
-      "volume": "$984,281.00",
-      "marketCap": "$12,216,472.00",
-      "holders": "112,324"
-    },
-    {
       "coinName": "Lympo Market Token (LMT)",
       "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
       "price": "$0.0038",
@@ -159,6 +149,16 @@
       "volume": "$2,784.00",
       "marketCap": "$586,773.00",
       "holders": "5,453"
+    },
+    {
+      "coinName": "JulSwap (JulD)",
+      "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+      "price": "$0.0205",
+      "change": "9.02%",
+      "isUp": true,
+      "volume": "$979,021.00",
+      "marketCap": "$12,118,645.00",
+      "holders": "112,324"
     },
     {
       "coinName": "Immutable (DARA)",
@@ -203,11 +203,11 @@
     {
       "coinName": "Ankr (ANKR)",
       "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-      "price": "$0.0724",
+      "price": "$0.0725",
       "change": "6.57%",
       "isUp": true,
-      "volume": "$90,250,735.00",
-      "marketCap": "$591,075,129.00",
+      "volume": "$100,193,926.00",
+      "marketCap": "$591,713,665.00",
       "holders": "20,518"
     },
     {
@@ -219,16 +219,6 @@
       "volume": "$39,314.00",
       "marketCap": "--",
       "holders": "4,010"
-    },
-    {
-      "coinName": "Binance-Peg yearn.finance (YFI)",
-      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
-      "price": "$19,430",
-      "change": "5.54%",
-      "isUp": true,
-      "volume": "$331,992,845.00",
-      "marketCap": "$695,495,183.00",
-      "holders": "6,363"
     },
     {
       "coinName": "Binance Beacon ETH (BETH)",
@@ -251,13 +241,23 @@
       "holders": "30,985"
     },
     {
+      "coinName": "Binance-Peg yearn.finance (YFI)",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "price": "$19,307",
+      "change": "4.85%",
+      "isUp": true,
+      "volume": "$274,921,227.00",
+      "marketCap": "$707,391,703.00",
+      "holders": "6,363"
+    },
+    {
       "coinName": "Smart Advertising Transaction Token (SATT)",
       "address": "0x448bee2d93be708b54ee6353a7cc35c4933f1156",
       "price": "$0.0007",
-      "change": "4.84%",
+      "change": "4.85%",
       "isUp": true,
-      "volume": "$45,937.00",
-      "marketCap": "$2,185,477.00",
+      "volume": "$45,672.00",
+      "marketCap": "$2,185,176.00",
       "holders": "15,871"
     },
     {
@@ -291,16 +291,6 @@
       "holders": "756"
     },
     {
-      "coinName": "SHIRO INU (SHIR)",
-      "address": "0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7",
-      "price": "$0.000.",
-      "change": "4.42%",
-      "isUp": true,
-      "volume": "$2,220.00",
-      "marketCap": "--",
-      "holders": "5,664"
-    },
-    {
       "coinName": "Orica (ORI)",
       "address": "0x3045d1a840364c3657b8df6c6f86a4359c23472b",
       "price": "$0.0176",
@@ -311,34 +301,14 @@
       "holders": "10,871"
     },
     {
-      "coinName": "Measurable Data Token (MDT)",
-      "address": "0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1",
-      "price": "$0.0559",
-      "change": "3.95%",
-      "isUp": true,
-      "volume": "$9,522,700.00",
-      "marketCap": "$37,821,991.00",
-      "holders": "3,907"
-    },
-    {
       "coinName": "Binance-Peg Token Club (TCT)",
       "address": "0xca0a9df6a8cad800046c1ddc5755810718b65c44",
-      "price": "$0.0176",
-      "change": "3.77%",
+      "price": "$0.0174",
+      "change": "3.68%",
       "isUp": true,
-      "volume": "$6,083,045.00",
-      "marketCap": "$14,387,045.00",
+      "volume": "$5,775,775.00",
+      "marketCap": "$14,240,765.00",
       "holders": "2,150"
-    },
-    {
-      "coinName": "CertiK Token (CTK)",
-      "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
-      "price": "$1.1573",
-      "change": "3.62%",
-      "isUp": true,
-      "volume": "$19,547,884.00",
-      "marketCap": "$81,631,927.00",
-      "holders": "15,782"
     },
     {
       "coinName": "Chess (CHESS)",
@@ -349,6 +319,16 @@
       "volume": "$22,586,978.00",
       "marketCap": "$52,561,786.00",
       "holders": "15,907"
+    },
+    {
+      "coinName": "CertiK Token (CTK)",
+      "address": "0xa8c2b8eec3d368c0253ad3dae65a5f2bbb89c929",
+      "price": "$1.1546",
+      "change": "3.37%",
+      "isUp": true,
+      "volume": "$19,620,266.00",
+      "marketCap": "$81,446,772.00",
+      "holders": "15,782"
     },
     {
       "coinName": "Spore (SPORE)",
@@ -391,16 +371,6 @@
       "holders": "6,823"
     },
     {
-      "coinName": "LTO Network (LTO)",
-      "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
-      "price": "$0.2001",
-      "change": "2.94%",
-      "isUp": true,
-      "volume": "$10,884,145.00",
-      "marketCap": "$60,389,392.00",
-      "holders": "4,070"
-    },
-    {
       "coinName": "Binance-Peg COTI Token (COTI)",
       "address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
       "price": "$0.2092",
@@ -431,6 +401,16 @@
       "holders": "35,611"
     },
     {
+      "coinName": "Measurable Data Token (MDT)",
+      "address": "0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1",
+      "price": "$0.0555",
+      "change": "2.65%",
+      "isUp": true,
+      "volume": "$9,605,612.00",
+      "marketCap": "$37,537,493.00",
+      "holders": "3,907"
+    },
+    {
       "coinName": "LunaChow on xDai from xDai (LUCHOW)",
       "address": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
       "price": "$0.000.",
@@ -449,6 +429,16 @@
       "volume": "$1,790,173.00",
       "marketCap": "$64,102,234.00",
       "holders": "673"
+    },
+    {
+      "coinName": "LTO Network (LTO)",
+      "address": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
+      "price": "$0.1997",
+      "change": "2.62%",
+      "isUp": true,
+      "volume": "$10,859,909.00",
+      "marketCap": "$60,269,163.00",
+      "holders": "4,070"
     },
     {
       "coinName": "Venus XVS (vXVS)",
@@ -491,14 +481,24 @@
       "holders": "1,445,305"
     },
     {
-      "coinName": "Venus (XVS)",
-      "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
-      "price": "$8.7959",
+      "coinName": "Useless (USELESS)",
+      "address": "0x2cd2664ce5639e46c6a3125257361e01d0213657",
+      "price": "$0.000.",
       "change": "2.29%",
       "isUp": true,
-      "volume": "$14,029,015.00",
-      "marketCap": "$107,050,555.00",
-      "holders": "50,972"
+      "volume": "$6,647.00",
+      "marketCap": "$5,118,160.00",
+      "holders": "14,997"
+    },
+    {
+      "coinName": "WalletNow (WNOW)",
+      "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
+      "price": "$0.0434",
+      "change": "2.01%",
+      "isUp": true,
+      "volume": "$10,308.00",
+      "marketCap": "--",
+      "holders": "5,637"
     }
   ]
 }
