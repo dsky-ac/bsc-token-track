@@ -161,6 +161,16 @@
       "holders": "25,000"
     },
     {
+      "coinName": "Graviton (GTON)",
+      "address": "0x64d5baf5ac030e2b7c435add967f787ae94d0205",
+      "price": "$1.7703",
+      "change": "11.24%",
+      "isUp": true,
+      "volume": "$9,949.00",
+      "marketCap": "$6,426,519.00",
+      "holders": "718"
+    },
+    {
       "coinName": "Binance-Peg Zcash Token (ZEC)",
       "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
       "price": "$115.58",
@@ -201,16 +211,6 @@
       "holders": "24,763"
     },
     {
-      "coinName": "Graviton (GTON)",
-      "address": "0x64d5baf5ac030e2b7c435add967f787ae94d0205",
-      "price": "$1.7514",
-      "change": "8.69%",
-      "isUp": true,
-      "volume": "$9,506.00",
-      "marketCap": "$6,357,769.00",
-      "holders": "718"
-    },
-    {
       "coinName": "CafeSwap Token (BREW)",
       "address": "0x790be81c3ca0e53974be2688cdb954732c9862e1",
       "price": "$0.0227",
@@ -229,16 +229,6 @@
       "volume": "$7,138.00",
       "marketCap": "$4,713,320.00",
       "holders": "9,670"
-    },
-    {
-      "coinName": "Billion Happiness (BHC)",
-      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
-      "price": "$39.503",
-      "change": "8.11%",
-      "isUp": true,
-      "volume": "$205,266.00",
-      "marketCap": "$1,975,151.00",
-      "holders": "8,622"
     },
     {
       "coinName": "Binance-Peg Synthetix Network Token (SNX)",
@@ -499,6 +489,16 @@
       "volume": "$421.00",
       "marketCap": "--",
       "holders": "4,306"
+    },
+    {
+      "coinName": "Binance Beacon ETH (BETH)",
+      "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+      "price": "$1,511.",
+      "change": "5.13%",
+      "isUp": true,
+      "volume": "$5,906,871.00",
+      "marketCap": "--",
+      "holders": "9,378"
     }
   ]
 }
