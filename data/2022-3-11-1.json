@@ -3,12 +3,12 @@
     {
       "coinName": "RigelToken (RGP)",
       "address": "0xfa262f303aa244f9cc66f312f0755d89c3793192",
-      "price": "$0.1470",
-      "change": "77.32%",
+      "price": "$0.1449",
+      "change": "74.31%",
       "isUp": true,
-      "volume": "$94,462.00",
-      "marketCap": "$133,153.00",
-      "holders": "5,311"
+      "volume": "$95,627.00",
+      "marketCap": "$130,493.00",
+      "holders": "5,310"
     },
     {
       "coinName": "FinNexus (FNX)",
@@ -23,10 +23,10 @@
     {
       "coinName": "Augmented Finance (AGF)",
       "address": "0x114597f4260caf4cde1eeb0b9d9865b0b7b9a46a",
-      "price": "$0.0180",
-      "change": "47.95%",
+      "price": "$0.0181",
+      "change": "48.97%",
       "isUp": true,
-      "volume": "$31,145.00",
+      "volume": "$31,253.00",
       "marketCap": "--",
       "holders": "97"
     },
@@ -38,7 +38,7 @@
       "isUp": true,
       "volume": "$650,399.00",
       "marketCap": "$1,470,820.00",
-      "holders": "7,614"
+      "holders": "7,613"
     },
     {
       "coinName": "Raven Protocol (RAVEN)",
@@ -51,32 +51,42 @@
       "holders": "3,289"
     },
     {
-      "coinName": "cheesemaker.farm (CHS)",
-      "address": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
-      "price": "$0.0221",
-      "change": "22.12%",
+      "coinName": "Ramen Token (Ramen)",
+      "address": "0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b",
+      "price": "$0.0050",
+      "change": "25.15%",
       "isUp": true,
-      "volume": "$28,787.00",
+      "volume": "$71.00",
       "marketCap": "--",
-      "holders": "5,910"
+      "holders": "5,227"
     },
     {
       "coinName": "Phoswap (PHO)",
       "address": "0xb9784c1633ef3b839563b988c323798634714368",
-      "price": "$0.0207",
-      "change": "18.98%",
+      "price": "$0.0209",
+      "change": "22.23%",
       "isUp": true,
-      "volume": "$21,355.00",
+      "volume": "$21,266.00",
       "marketCap": "--",
       "holders": "3,749"
+    },
+    {
+      "coinName": "cheesemaker.farm (CHS)",
+      "address": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
+      "price": "$0.0227",
+      "change": "22.05%",
+      "isUp": true,
+      "volume": "$29,506.00",
+      "marketCap": "--",
+      "holders": "5,913"
     },
     {
       "coinName": "PizzaSwap (PIZZA)",
       "address": "0x2cc26dd730f548dc4ac291ae7d84a0c96980d2cb",
       "price": "$0.0692",
-      "change": "15.00%",
+      "change": "14.92%",
       "isUp": true,
-      "volume": "$6,898.00",
+      "volume": "$6,899.00",
       "marketCap": "--",
       "holders": "4,010"
     },
@@ -91,44 +101,44 @@
       "holders": "1,139"
     },
     {
-      "coinName": "GamyFi (GFX)",
-      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
-      "price": "$0.3954",
-      "change": "9.91%",
+      "coinName": "Kiwi Token (KIWI)",
+      "address": "0xcfdf8a80fecaeecc144fa74c0df8691bfd0e26e3",
+      "price": "$0.0705",
+      "change": "13.35%",
       "isUp": true,
-      "volume": "$5,405.00",
-      "marketCap": "$1,265,403.00",
-      "holders": "955"
+      "volume": "$4,863.00",
+      "marketCap": "--",
+      "holders": "801"
     },
     {
-      "coinName": "Wrapped MIR Token (MIR)",
-      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
-      "price": "$2.1588",
-      "change": "9.72%",
+      "coinName": "GamyFi (GFX)",
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "price": "$0.3955",
+      "change": "10.05%",
       "isUp": true,
-      "volume": "$610,228,882.00",
-      "marketCap": "$167,829,222.00",
-      "holders": "5,674"
+      "volume": "$5,377.00",
+      "marketCap": "$1,265,450.00",
+      "holders": "955"
     },
     {
       "coinName": "WalletNow (WNOW)",
       "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
-      "price": "$0.0422",
-      "change": "9.33%",
+      "price": "$0.0423",
+      "change": "9.46%",
       "isUp": true,
-      "volume": "$10,502.00",
+      "volume": "$10,521.00",
       "marketCap": "--",
       "holders": "5,628"
     },
     {
-      "coinName": "Kiwi Token (KIWI)",
-      "address": "0xcfdf8a80fecaeecc144fa74c0df8691bfd0e26e3",
-      "price": "$0.0705",
-      "change": "5.40%",
+      "coinName": "Wrapped MIR Token (MIR)",
+      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "price": "$2.1612",
+      "change": "5.47%",
       "isUp": true,
-      "volume": "$5,068.00",
-      "marketCap": "--",
-      "holders": "801"
+      "volume": "$600,894,122.00",
+      "marketCap": "$168,020,541.00",
+      "holders": "5,672"
     },
     {
       "coinName": "Binance Beacon ETH (BETH)",
@@ -138,37 +148,27 @@
       "isUp": true,
       "volume": "$5,906,871.00",
       "marketCap": "--",
-      "holders": "9,485"
+      "holders": "9,486"
     },
     {
-      "coinName": "OwlDAO token (OWL)",
-      "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
-      "price": "$0.0128",
-      "change": "4.08%",
+      "coinName": "France REV Finance (FRF)",
+      "address": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
+      "price": "$0.000.",
+      "change": "4.21%",
       "isUp": true,
-      "volume": "$682.00",
+      "volume": "$6,730.00",
       "marketCap": "--",
-      "holders": "781"
-    },
-    {
-      "coinName": "SafePal Token (SFP)",
-      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-      "price": "$0.7834",
-      "change": "3.98%",
-      "isUp": true,
-      "volume": "$52,435,146.00",
-      "marketCap": "$84,734,575.00",
-      "holders": "128,268"
+      "holders": "2,007"
     },
     {
       "coinName": "Binance-Peg eCash Token (XEC)",
       "address": "0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
       "price": "$0.0001",
-      "change": "3.91%",
+      "change": "3.42%",
       "isUp": true,
-      "volume": "$124,889,863.00",
-      "marketCap": "$1,515,644,622.00",
-      "holders": "5,252"
+      "volume": "$124,359,059.00",
+      "marketCap": "$1,505,674,611.00",
+      "holders": "5,256"
     },
     {
       "coinName": "Bat True Dollar (BTD)",
@@ -178,7 +178,7 @@
       "isUp": true,
       "volume": "$10,657.00",
       "marketCap": "--",
-      "holders": "2,464"
+      "holders": "2,466"
     },
     {
       "coinName": "binance conflux Flux Protocol (bcFLUX)",
@@ -191,34 +191,34 @@
       "holders": "1,519"
     },
     {
-      "coinName": "LunaChow on xDai from xDai (LUCHOW)",
-      "address": "0xe4e8e6878718bfe533702d4a6571eb74d79b0915",
-      "price": "$0.000.",
-      "change": "3.11%",
+      "coinName": "Venus Reward Token (VRT)",
+      "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+      "price": "$0.0005",
+      "change": "2.57%",
       "isUp": true,
-      "volume": "$641,142.00",
-      "marketCap": "$630,000.00",
-      "holders": "3,450"
+      "volume": "$282,891.00",
+      "marketCap": "$10,690,536.00",
+      "holders": "43,549"
     },
     {
-      "coinName": "France REV Finance (FRF)",
-      "address": "0x5a29c96fa93ffa8845fb7f8616a03aa85fcc11d6",
-      "price": "$0.000.",
-      "change": "2.55%",
+      "coinName": "OwlDAO token (OWL)",
+      "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
+      "price": "$0.0126",
+      "change": "2.52%",
       "isUp": true,
-      "volume": "$6,981.00",
+      "volume": "$900.00",
       "marketCap": "--",
-      "holders": "2,007"
+      "holders": "781"
     },
     {
       "coinName": "Nominex (NMX)",
       "address": "0xd32d01a43c869edcd1117c640fbdcfcfd97d9d65",
       "price": "$1.340.",
-      "change": "2.50%",
+      "change": "2.40%",
       "isUp": true,
-      "volume": "$70,046.00",
-      "marketCap": "$47,352,344.00",
-      "holders": "13,658"
+      "volume": "$70,091.00",
+      "marketCap": "$47,308,736.00",
+      "holders": "13,667"
     },
     {
       "coinName": "SpookyShiba (SPOOKYSHIBA)",
@@ -228,57 +228,57 @@
       "isUp": true,
       "volume": "$26,775.00",
       "marketCap": "--",
-      "holders": "31,010"
-    },
-    {
-      "coinName": "loser coin (lowb)",
-      "address": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
-      "price": "$0.000.",
-      "change": "2.01%",
-      "isUp": true,
-      "volume": "$541,560.00",
-      "marketCap": "--",
-      "holders": "144,343"
+      "holders": "31,008"
     },
     {
       "coinName": "SakeToken (SAKE)",
       "address": "0x8bd778b12b15416359a227f0533ce2d91844e1ed",
-      "price": "$0.0106",
-      "change": "1.94%",
+      "price": "$0.0107",
+      "change": "2.15%",
       "isUp": true,
-      "volume": "$14,532.00",
-      "marketCap": "$784,298.00",
+      "volume": "$14,361.00",
+      "marketCap": "$785,657.00",
       "holders": "1,341"
+    },
+    {
+      "coinName": "Binance-Peg Elrond Token (EGLD)",
+      "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+      "price": "$145.31",
+      "change": "2.02%",
+      "isUp": true,
+      "volume": "$277,016,562.00",
+      "marketCap": "$3,142,888,457.00",
+      "holders": "26,703"
+    },
+    {
+      "coinName": "MATH Token (MATH)",
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "price": "$0.1363",
+      "change": "1.89%",
+      "isUp": true,
+      "volume": "$167,174.00",
+      "marketCap": "$20,264,760.00",
+      "holders": "39,711"
     },
     {
       "coinName": "Wrapped Idena (iDNA)",
       "address": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b",
       "price": "$0.0811",
-      "change": "1.82%",
+      "change": "1.60%",
       "isUp": true,
-      "volume": "$105,817.00",
-      "marketCap": "$4,726,323.00",
+      "volume": "$105,431.00",
+      "marketCap": "$4,732,964.00",
       "holders": "1,386"
     },
     {
-      "coinName": "DeSpace Protocol (DES)",
-      "address": "0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
-      "price": "$0.0494",
-      "change": "1.59%",
+      "coinName": "SafePal Token (SFP)",
+      "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+      "price": "$0.7628",
+      "change": "1.55%",
       "isUp": true,
-      "volume": "$195,654.00",
-      "marketCap": "--",
-      "holders": "3,072"
-    },
-    {
-      "coinName": "Binance-Peg Elrond Token (EGLD)",
-      "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
-      "price": "$145.12",
-      "change": "1.51%",
-      "isUp": true,
-      "volume": "$271,455,783.00",
-      "marketCap": "$3,138,792,560.00",
-      "holders": "26,698"
+      "volume": "$53,680,825.00",
+      "marketCap": "$82,506,374.00",
+      "holders": "128,268"
     },
     {
       "coinName": "Swipe (SXP)",
@@ -288,7 +288,7 @@
       "isUp": true,
       "volume": "$136,730,887.00",
       "marketCap": "$248,307,534.00",
-      "holders": "53,957"
+      "holders": "53,959"
     },
     {
       "coinName": "Binance-Peg BitTorrent Token (BTT)",
@@ -298,37 +298,67 @@
       "isUp": true,
       "volume": "$1,048,627.00",
       "marketCap": "$2,517,192,710.00",
-      "holders": "91,016"
+      "holders": "91,010"
+    },
+    {
+      "coinName": "DeSpace Protocol (DES)",
+      "address": "0xb38b3c34e4bb6144c1e5283af720E046Ee833a2a",
+      "price": "$0.0495",
+      "change": "1.32%",
+      "isUp": true,
+      "volume": "$195,744.00",
+      "marketCap": "--",
+      "holders": "3,072"
     },
     {
       "coinName": "Space Token (SPACE)",
       "address": "0x9d9affac2175ef541642035ab66f5fe7df813851",
       "price": "$0.0288",
-      "change": "1.30%",
+      "change": "1.26%",
       "isUp": true,
-      "volume": "$23,377.00",
+      "volume": "$23,386.00",
       "marketCap": "--",
-      "holders": "2,564"
+      "holders": "2,565"
+    },
+    {
+      "coinName": "Jointer (JNTR)",
+      "address": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
+      "price": "$0.0265",
+      "change": "1.16%",
+      "isUp": true,
+      "volume": "$75,693.00",
+      "marketCap": "--",
+      "holders": "5,260"
+    },
+    {
+      "coinName": "loser coin (lowb)",
+      "address": "0x843d4a358471547f51534e3e51fae91cb4dc3f28",
+      "price": "$0.000.",
+      "change": "1.16%",
+      "isUp": true,
+      "volume": "$545,588.00",
+      "marketCap": "--",
+      "holders": "144,342"
+    },
+    {
+      "coinName": "DEI (DEI)",
+      "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+      "price": "$1.0130",
+      "change": "1.12%",
+      "isUp": true,
+      "volume": "$3,917,112.00",
+      "marketCap": "$22,124,724.00",
+      "holders": "24"
     },
     {
       "coinName": "Immutable (DARA)",
       "address": "0x0255af6c9f86f6b0543357bacefa262a2664f80f",
-      "price": "$0.0268",
-      "change": "0.82%",
+      "price": "$0.0269",
+      "change": "0.98%",
       "isUp": true,
-      "volume": "$20,779.00",
+      "volume": "$20,832.00",
       "marketCap": "--",
       "holders": "2,550"
-    },
-    {
-      "coinName": "1INCH Token (1INCH)",
-      "address": "0x111111111117dc0aa78b770fa6a738034120c302",
-      "price": "$1.400.",
-      "change": "0.76%",
-      "isUp": true,
-      "volume": "$50,172,510.00",
-      "marketCap": "$550,736,419.00",
-      "holders": "91,865"
     },
     {
       "coinName": "Elemon Token (ELMON)",
@@ -338,7 +368,7 @@
       "isUp": true,
       "volume": "$459,435.00",
       "marketCap": "--",
-      "holders": "42,780"
+      "holders": "42,769"
     },
     {
       "coinName": "N1CEToken (N1CE)",
@@ -351,24 +381,34 @@
       "holders": "11,256"
     },
     {
-      "coinName": "MATH Token (MATH)",
-      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
-      "price": "$0.1362",
-      "change": "0.51%",
-      "isUp": true,
-      "volume": "$167,562.00",
-      "marketCap": "$20,221,479.00",
-      "holders": "39,711"
-    },
-    {
       "coinName": "BAGEL (BAGEL)",
       "address": "0xbb238fce6e2ee90781cd160c9c6eaf3a4cfad801",
       "price": "$0.0032",
-      "change": "0.46%",
+      "change": "0.41%",
       "isUp": true,
       "volume": "$8.00",
-      "marketCap": "$82,053.00",
+      "marketCap": "$82,247.00",
       "holders": "4,944"
+    },
+    {
+      "coinName": "Binance-Peg PAX Gold (PAXG)",
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "price": "$2,004.",
+      "change": "0.40%",
+      "isUp": true,
+      "volume": "$114,884,614.00",
+      "marketCap": "$615,142,485.00",
+      "holders": "2"
+    },
+    {
+      "coinName": "HappinessToken (HPS)",
+      "address": "0xeda21b525ac789eab1a08ef2404dd8505ffb973d",
+      "price": "$0.6622",
+      "change": "0.38%",
+      "isUp": true,
+      "volume": "$9,390.00",
+      "marketCap": "--",
+      "holders": "24,441"
     },
     {
       "coinName": "BIDR BEP20 (BIDR)",
@@ -378,57 +418,37 @@
       "isUp": true,
       "volume": "$24,477,857.00",
       "marketCap": "$15,867,865.00",
-      "holders": "5,844"
-    },
-    {
-      "coinName": "Fuel Token (Fuel)",
-      "address": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
-      "price": "$35.287",
-      "change": "0.26%",
-      "isUp": true,
-      "volume": "$109,204.00",
-      "marketCap": "--",
-      "holders": "1,820"
+      "holders": "5,843"
     },
     {
       "coinName": "vSWAP.fi (vBSWAP)",
       "address": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600",
-      "price": "$46.540",
-      "change": "0.23%",
+      "price": "$46.570",
+      "change": "0.19%",
       "isUp": true,
-      "volume": "$614.00",
+      "volume": "$615.00",
       "marketCap": "--",
       "holders": "7,174"
     },
     {
-      "coinName": "Ramen Token (Ramen)",
-      "address": "0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b",
-      "price": "$0.0040",
+      "coinName": "Fuel Token (Fuel)",
+      "address": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+      "price": "$35.209",
       "change": "0.19%",
       "isUp": true,
-      "volume": "$56.00",
+      "volume": "$109,396.00",
       "marketCap": "--",
-      "holders": "5,227"
+      "holders": "1,820"
     },
     {
-      "coinName": "Binance-Peg PAX Gold (PAXG)",
-      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
-      "price": "$2,002.",
-      "change": "0.17%",
-      "isUp": true,
-      "volume": "$114,757,316.00",
-      "marketCap": "$614,675,101.00",
-      "holders": "2"
-    },
-    {
-      "coinName": "HappinessToken (HPS)",
-      "address": "0xeda21b525ac789eab1a08ef2404dd8505ffb973d",
-      "price": "$0.6791",
+      "coinName": "Binance-Peg Zcash Token (ZEC)",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "price": "$141.21",
       "change": "0.16%",
       "isUp": true,
-      "volume": "$9,626.00",
-      "marketCap": "--",
-      "holders": "24,441"
+      "volume": "$683,189,868.00",
+      "marketCap": "$1,965,210,363.00",
+      "holders": "4,777"
     },
     {
       "coinName": "NapoleonX Token (NPXB)",
@@ -436,69 +456,49 @@
       "price": "$0.0640",
       "change": "0.16%",
       "isUp": true,
-      "volume": "$1,921.00",
-      "marketCap": "$1,617,781.00",
+      "volume": "$1,923.00",
+      "marketCap": "$1,621,628.00",
       "holders": "185"
+    },
+    {
+      "coinName": "Wrapped UST Token (UST)",
+      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
+      "price": "$1.0061",
+      "change": "0.09%",
+      "isUp": true,
+      "volume": "$768,523,429.00",
+      "marketCap": "$14,306,810,561.00",
+      "holders": "63,825"
     },
     {
       "coinName": "Binance-Peg TrueUSD Token (TUSD)",
       "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
       "price": "$1.0010",
-      "change": "0.15%",
-      "isUp": true,
-      "volume": "$82,723,667.00",
-      "marketCap": "$1,474,098,195.00",
-      "holders": "13,103"
-    },
-    {
-      "coinName": "Wrapped UST Token (UST)",
-      "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-      "price": "$1.0049",
-      "change": "0.14%",
-      "isUp": true,
-      "volume": "$763,044,543.00",
-      "marketCap": "$14,288,681,605.00",
-      "holders": "63,812"
-    },
-    {
-      "coinName": "Binance-Peg BSC-USD (BSC-USD)",
-      "address": "0x55d398326f99059ff775485246999027b3197955",
-      "price": "$1.0010",
       "change": "0.09%",
       "isUp": true,
-      "volume": "$56,814,035,434.00",
-      "marketCap": "$80,107,715,556.00",
-      "holders": "3,134,394"
+      "volume": "$83,086,216.00",
+      "marketCap": "$1,474,459,893.00",
+      "holders": "13,107"
+    },
+    {
+      "coinName": "Frax (FRAX)",
+      "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+      "price": "$1.000.",
+      "change": "0.09%",
+      "isUp": true,
+      "volume": "$19,257,239.00",
+      "marketCap": "$2,905,953,581.00",
+      "holders": "500"
     },
     {
       "coinName": "Venus BUSD (vBUSD)",
       "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
       "price": "$0.0214",
-      "change": "0.04%",
+      "change": "0.06%",
       "isUp": true,
       "volume": "$0.00",
-      "marketCap": "$57,731,152.00",
-      "holders": "8,258"
-    },
-    {
-      "coinName": "Binance-Peg BUSD Token (BUSD)",
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "price": "$1.0007",
-      "change": "0.03%",
-      "isUp": true,
-      "volume": "$5,588,962,283.00",
-      "marketCap": "$18,026,748,946.00",
-      "holders": "3,047,681"
-    },
-    {
-      "coinName": "Venus DAI (vDAI)",
-      "address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
-      "price": "$0.0211",
-      "change": "0.03%",
-      "isUp": true,
-      "volume": "$0.00",
-      "marketCap": "$5,788,188.00",
-      "holders": "1,011"
+      "marketCap": "$57,738,230.00",
+      "holders": "8,263"
     }
   ]
 }
