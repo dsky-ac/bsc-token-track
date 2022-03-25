@@ -103,11 +103,11 @@
     {
       "coinName": "Anyswap-BEP20 (ANY)",
       "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
-      "price": "$14.318",
-      "change": "30.77%",
+      "price": "$14.424",
+      "change": "31.64%",
       "isUp": true,
-      "volume": "$131,196,763.00",
-      "marketCap": "$266,888,679.00",
+      "volume": "$132,661,915.00",
+      "marketCap": "$268,866,518.00",
       "holders": "176,324"
     },
     {
@@ -133,10 +133,10 @@
     {
       "coinName": "MarketLedger (ML)",
       "address": "0xc4fB957e3F1c04C8Dc4000525e55920861F25bFc",
-      "price": "$0.4052",
-      "change": "19.14%",
+      "price": "$0.4065",
+      "change": "19.75%",
       "isUp": true,
-      "volume": "$86,298.00",
+      "volume": "$86,572.00",
       "marketCap": "--",
       "holders": "1,290"
     },
@@ -173,52 +173,32 @@
     {
       "coinName": "HappinessToken (HPS)",
       "address": "0xeda21b525ac789eab1a08ef2404dd8505ffb973d",
-      "price": "$0.7306",
-      "change": "13.39%",
+      "price": "$0.7315",
+      "change": "12.31%",
       "isUp": true,
-      "volume": "$11,019.00",
+      "volume": "$11,084.00",
       "marketCap": "--",
       "holders": "24,424"
     },
     {
       "coinName": "Torum (XTM)",
       "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
-      "price": "$0.1697",
-      "change": "10.82%",
+      "price": "$0.1686",
+      "change": "10.37%",
       "isUp": true,
-      "volume": "$1,698,235.00",
-      "marketCap": "$8,885,907.00",
+      "volume": "$1,698,701.00",
+      "marketCap": "$8,828,564.00",
       "holders": "12,061"
     },
     {
       "coinName": "Venus Reward Token (VRT)",
       "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
       "price": "$0.0006",
-      "change": "9.20%",
+      "change": "8.36%",
       "isUp": true,
-      "volume": "$359,794.00",
-      "marketCap": "$13,269,111.00",
+      "volume": "$359,248.00",
+      "marketCap": "$13,267,372.00",
       "holders": "43,557"
-    },
-    {
-      "coinName": "Moonlift (MLTPX)",
-      "address": "0x9d7c580e0bc4ea441db96eebc7e1440d264bce51",
-      "price": "$0.000.",
-      "change": "8.84%",
-      "isUp": true,
-      "volume": "$4,303.00",
-      "marketCap": "--",
-      "holders": "7,902"
-    },
-    {
-      "coinName": "Trust Wallet (TWT)",
-      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
-      "price": "$1.1519",
-      "change": "7.97%",
-      "isUp": true,
-      "volume": "$162,858,610.00",
-      "marketCap": "$399,649,387.00",
-      "holders": "269,991"
     },
     {
       "coinName": "Cashaa (CAS)",
@@ -261,13 +241,23 @@
       "holders": "1,620"
     },
     {
+      "coinName": "Moonlift (MLTPX)",
+      "address": "0x9d7c580e0bc4ea441db96eebc7e1440d264bce51",
+      "price": "$0.000.",
+      "change": "6.48%",
+      "isUp": true,
+      "volume": "$4,535.00",
+      "marketCap": "--",
+      "holders": "7,902"
+    },
+    {
       "coinName": "FC Santos Fan Token (SANTOS)",
       "address": "0xa64455a4553c9034236734faddaddbb64ace4cc7",
-      "price": "$6.7511",
-      "change": "6.51%",
+      "price": "$6.7053",
+      "change": "6.13%",
       "isUp": true,
-      "volume": "$75,462,990.00",
-      "marketCap": "$30,717,542.00",
+      "volume": "$76,431,353.00",
+      "marketCap": "$30,509,283.00",
       "holders": "18,578"
     },
     {
@@ -313,11 +303,11 @@
     {
       "coinName": "Binance-Peg Zcash Token (ZEC)",
       "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
-      "price": "$197.91",
-      "change": "5.38%",
+      "price": "$197.02",
+      "change": "5.42%",
       "isUp": true,
-      "volume": "$380,414,101.00",
-      "marketCap": "$2,775,594,889.00",
+      "volume": "$385,084,575.00",
+      "marketCap": "$2,763,144,685.00",
       "holders": "4,946"
     },
     {
@@ -371,6 +361,16 @@
       "holders": "3,098"
     },
     {
+      "coinName": "Trust Wallet (TWT)",
+      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "price": "$1.1451",
+      "change": "4.46%",
+      "isUp": true,
+      "volume": "$157,861,463.00",
+      "marketCap": "$397,286,053.00",
+      "holders": "269,991"
+    },
+    {
       "coinName": "ARIVA (ARV)",
       "address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
       "price": "$0.0004",
@@ -421,14 +421,14 @@
       "holders": "603"
     },
     {
-      "coinName": "Tokyo AU Token (TOKAU)",
-      "address": "0xc409ec8a33f31437ed753c82eed3c5f16d6d7e22",
-      "price": "$0.000.",
-      "change": "3.61%",
+      "coinName": "Binance-Peg Token Club (TCT)",
+      "address": "0xca0a9df6a8cad800046c1ddc5755810718b65c44",
+      "price": "$0.0204",
+      "change": "3.62%",
       "isUp": true,
-      "volume": "$1,042,135.00",
-      "marketCap": "--",
-      "holders": "79,218"
+      "volume": "$3,010,111.00",
+      "marketCap": "$16,687,858.00",
+      "holders": "2,191"
     },
     {
       "coinName": "Ellipsis (EPS)",
@@ -461,16 +461,6 @@
       "holders": "2,548"
     },
     {
-      "coinName": "FREE coin BSC (FREE)",
-      "address": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739",
-      "price": "$0.000.",
-      "change": "3.27%",
-      "isUp": true,
-      "volume": "$371,491.00",
-      "marketCap": "$5,776,775.00",
-      "holders": "388,059"
-    },
-    {
       "coinName": "Fuse Token on BSC (FUSE)",
       "address": "0x5857c96dae9cf8511b08cb07f85753c472d36ea3",
       "price": "$0.3761",
@@ -491,14 +481,24 @@
       "holders": "2,459"
     },
     {
-      "coinName": "Jointer (JNTR)",
-      "address": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
-      "price": "$0.0273",
-      "change": "3.05%",
+      "coinName": "Hotbit Token (HTB)",
+      "address": "0x4e840aadd28da189b9906674b4afcb77c128d9ea",
+      "price": "$0.0491",
+      "change": "3.03%",
       "isUp": true,
-      "volume": "$65,253.00",
-      "marketCap": "--",
-      "holders": "5,266"
+      "volume": "$386.00",
+      "marketCap": "$37,971,675.00",
+      "holders": "2,796"
+    },
+    {
+      "coinName": "FREE coin BSC (FREE)",
+      "address": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739",
+      "price": "$0.000.",
+      "change": "3.00%",
+      "isUp": true,
+      "volume": "$361,415.00",
+      "marketCap": "$5,640,208.00",
+      "holders": "388,059"
     }
   ]
 }
