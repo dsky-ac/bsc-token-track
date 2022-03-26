@@ -53,11 +53,11 @@
     {
       "coinName": "Billion Happiness (BHC)",
       "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
-      "price": "$56.480",
-      "change": "30.14%",
+      "price": "$55.927",
+      "change": "29.97%",
       "isUp": true,
-      "volume": "$311,897.00",
-      "marketCap": "$2,824,015.00",
+      "volume": "$307,983.00",
+      "marketCap": "$2,796,370.00",
       "holders": "9,628"
     },
     {
@@ -161,6 +161,16 @@
       "holders": "16,098"
     },
     {
+      "coinName": "Torum (XTM)",
+      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
+      "price": "$0.1753",
+      "change": "8.82%",
+      "isUp": true,
+      "volume": "$1,399,231.00",
+      "marketCap": "$9,178,523.00",
+      "holders": "12,059"
+    },
+    {
       "coinName": "Wall Street Games (WSG)",
       "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
       "price": "$0.000.",
@@ -201,16 +211,6 @@
       "holders": "5,677"
     },
     {
-      "coinName": "Torum (XTM)",
-      "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
-      "price": "$0.1742",
-      "change": "7.39%",
-      "isUp": true,
-      "volume": "$1,407,696.00",
-      "marketCap": "$9,122,228.00",
-      "holders": "12,059"
-    },
-    {
       "coinName": "SwftCoin (SWFTC)",
       "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
       "price": "$0.0028",
@@ -241,6 +241,26 @@
       "holders": "144,344"
     },
     {
+      "coinName": "Binance-Peg Tezos Token (XTZ)",
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "price": "$3.6916",
+      "change": "5.92%",
+      "isUp": true,
+      "volume": "$148,390,220.00",
+      "marketCap": "$3,281,060,440.00",
+      "holders": "16,816"
+    },
+    {
+      "coinName": "Binance-Peg Zcash Token (ZEC)",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "price": "$201.83",
+      "change": "5.55%",
+      "isUp": true,
+      "volume": "$385,241,349.00",
+      "marketCap": "$2,831,705,849.00",
+      "holders": "4,957"
+    },
+    {
       "coinName": "Chain (XCN)",
       "address": "0x7324c7c0d95cebc73eea7e85cbaac0dbdf88a05b",
       "price": "$0.0722",
@@ -251,16 +271,6 @@
       "holders": "2"
     },
     {
-      "coinName": "Binance-Peg Zcash Token (ZEC)",
-      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
-      "price": "$201.19",
-      "change": "5.22%",
-      "isUp": true,
-      "volume": "$383,043,725.00",
-      "marketCap": "$2,822,515,733.00",
-      "holders": "4,957"
-    },
-    {
       "coinName": "Binance Beacon ETH (BETH)",
       "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
       "price": "$1,511.",
@@ -268,17 +278,17 @@
       "isUp": true,
       "volume": "$5,906,871.00",
       "marketCap": "--",
-      "holders": "9,600"
+      "holders": "9,602"
     },
     {
-      "coinName": "AlphaToken (ALPHA)",
-      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
-      "price": "$0.3256",
-      "change": "4.46%",
+      "coinName": "Binance-Peg NEAR Protocol (NEAR)",
+      "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+      "price": "$13.372",
+      "change": "5.03%",
       "isUp": true,
-      "volume": "$37,915,756.00",
-      "marketCap": "$145,324,388.00",
-      "holders": "17,517"
+      "volume": "$754,239,481.00",
+      "marketCap": "$8,828,444,602.00",
+      "holders": "16,302"
     },
     {
       "coinName": "$Poolz Finance [via ChainPort.io] (POOLZ)",
@@ -341,16 +351,6 @@
       "holders": "10,845"
     },
     {
-      "coinName": "Binance-Peg NEAR Protocol (NEAR)",
-      "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
-      "price": "$13.218",
-      "change": "3.90%",
-      "isUp": true,
-      "volume": "$740,861,080.00",
-      "marketCap": "$8,726,667,176.00",
-      "holders": "16,302"
-    },
-    {
       "coinName": "Cubiex (CBIX)",
       "address": "0x34681c1035f97e1edcccec5f142e02ff81a3a230",
       "price": "$0.0010",
@@ -359,26 +359,6 @@
       "volume": "$134.00",
       "marketCap": "$69,375.00",
       "holders": "2,636"
-    },
-    {
-      "coinName": "Graviton (GTON)",
-      "address": "0x64d5baf5ac030e2b7c435add967f787ae94d0205",
-      "price": "$1.6496",
-      "change": "3.80%",
-      "isUp": true,
-      "volume": "$16,995.00",
-      "marketCap": "$5,988,166.00",
-      "holders": "714"
-    },
-    {
-      "coinName": "Venus Reward Token (VRT)",
-      "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
-      "price": "$0.0006",
-      "change": "3.76%",
-      "isUp": true,
-      "volume": "$225,607.00",
-      "marketCap": "$13,331,346.00",
-      "holders": "43,559"
     },
     {
       "coinName": "Tokyo AU Token (TOKAU)",
@@ -411,16 +391,6 @@
       "holders": "15,103"
     },
     {
-      "coinName": "Binance-Peg Tezos Token (XTZ)",
-      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
-      "price": "$3.6118",
-      "change": "3.65%",
-      "isUp": true,
-      "volume": "$115,441,479.00",
-      "marketCap": "$3,210,149,758.00",
-      "holders": "16,816"
-    },
-    {
       "coinName": "beefy.finance (BIFI)",
       "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
       "price": "$1,437.",
@@ -431,16 +401,6 @@
       "holders": "25,296"
     },
     {
-      "coinName": "FREE coin BSC (FREE)",
-      "address": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739",
-      "price": "$0.000.",
-      "change": "3.39%",
-      "isUp": true,
-      "volume": "$361,149.00",
-      "marketCap": "$5,742,890.00",
-      "holders": "388,066"
-    },
-    {
       "coinName": "UBUToken (UBU)",
       "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
       "price": "$0.0032",
@@ -449,6 +409,16 @@
       "volume": "$2.00",
       "marketCap": "$25,842.00",
       "holders": "3,072"
+    },
+    {
+      "coinName": "AlphaToken (ALPHA)",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "price": "$0.3292",
+      "change": "3.18%",
+      "isUp": true,
+      "volume": "$43,958,962.00",
+      "marketCap": "$146,925,788.00",
+      "holders": "17,517"
     },
     {
       "coinName": "Bat True Dollar (BTD)",
@@ -491,14 +461,44 @@
       "holders": "2,544"
     },
     {
-      "coinName": "Moeda Loyalty Points (MDA)",
-      "address": "0xd72aa9e1cddc2f6d6e0444580002170fba1f8eed",
-      "price": "$0.4215",
-      "change": "2.91%",
+      "coinName": "FREE coin BSC (FREE)",
+      "address": "0x12e34cdf6a031a10fe241864c32fb03a4fdad739",
+      "price": "$0.000.",
+      "change": "2.93%",
       "isUp": true,
-      "volume": "$857,599.00",
-      "marketCap": "$8,274,044.00",
-      "holders": "580"
+      "volume": "$337,928.00",
+      "marketCap": "$5,747,728.00",
+      "holders": "388,066"
+    },
+    {
+      "coinName": "Venus Reward Token (VRT)",
+      "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+      "price": "$0.0006",
+      "change": "2.90%",
+      "isUp": true,
+      "volume": "$228,321.00",
+      "marketCap": "$13,285,727.00",
+      "holders": "43,559"
+    },
+    {
+      "coinName": "TETU Reward Token (TETU)",
+      "address": "0x1f681b1c4065057e07b95a1e5e504fb2c85f4625",
+      "price": "$0.0194",
+      "change": "2.88%",
+      "isUp": true,
+      "volume": "$32,630.00",
+      "marketCap": "$4,060,280.00",
+      "holders": "3"
+    },
+    {
+      "coinName": "Sun Token (SUN)",
+      "address": "0xa1e6c58d503e4eee986167f45a063853cefe08c3",
+      "price": "$0.0139",
+      "change": "2.78%",
+      "isUp": true,
+      "volume": "$160,072,288.00",
+      "marketCap": "$146,267,969.00",
+      "holders": "709"
     }
   ]
 }
