@@ -13,11 +13,11 @@
     {
       "coinName": "AlphaToken (ALPHA)",
       "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
-      "price": "$0.6234",
-      "change": "51.10%",
+      "price": "$0.6231",
+      "change": "50.98%",
       "isUp": true,
-      "volume": "$416,235,520.00",
-      "marketCap": "$278,249,523.00",
+      "volume": "$419,039,084.00",
+      "marketCap": "$278,107,316.00",
       "holders": "17,793"
     },
     {
@@ -63,10 +63,10 @@
     {
       "coinName": "MarketLedger (ML)",
       "address": "0xc4fB957e3F1c04C8Dc4000525e55920861F25bFc",
-      "price": "$0.5982",
-      "change": "31.54%",
+      "price": "$0.5986",
+      "change": "31.56%",
       "isUp": true,
-      "volume": "$90,571.00",
+      "volume": "$90,329.00",
       "marketCap": "--",
       "holders": "1,301"
     },
@@ -94,20 +94,20 @@
       "coinName": "MDX Token (MDX)",
       "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
       "price": "$0.3273",
-      "change": "20.36%",
+      "change": "20.49%",
       "isUp": true,
-      "volume": "$53,831,165.00",
-      "marketCap": "$285,787,194.00",
+      "volume": "$51,778,960.00",
+      "marketCap": "$285,792,520.00",
       "holders": "55,248"
     },
     {
       "coinName": "Venus (XVS)",
       "address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
-      "price": "$14.016",
-      "change": "18.95%",
+      "price": "$13.997",
+      "change": "18.94%",
       "isUp": true,
-      "volume": "$88,012,727.00",
-      "marketCap": "$170,584,596.00",
+      "volume": "$87,918,585.00",
+      "marketCap": "$170,355,924.00",
       "holders": "51,512"
     },
     {
@@ -134,10 +134,10 @@
       "coinName": "Venus Reward Token (VRT)",
       "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
       "price": "$0.0008",
-      "change": "17.55%",
+      "change": "17.14%",
       "isUp": true,
-      "volume": "$375,074.00",
-      "marketCap": "$17,023,649.00",
+      "volume": "$375,313.00",
+      "marketCap": "$17,068,931.00",
       "holders": "43,426"
     },
     {
@@ -181,16 +181,6 @@
       "holders": "1,139"
     },
     {
-      "coinName": "DVX (DRIVENx)",
-      "address": "0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e",
-      "price": "$0.0067",
-      "change": "14.23%",
-      "isUp": true,
-      "volume": "$8,876.00",
-      "marketCap": "--",
-      "holders": "5,563"
-    },
-    {
       "coinName": "Alien Worlds Trilium (TLM)",
       "address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
       "price": "$0.1397",
@@ -201,6 +191,16 @@
       "holders": "94,024"
     },
     {
+      "coinName": "DVX (DRIVENx)",
+      "address": "0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e",
+      "price": "$0.0067",
+      "change": "13.94%",
+      "isUp": true,
+      "volume": "$8,857.00",
+      "marketCap": "--",
+      "holders": "5,563"
+    },
+    {
       "coinName": "WEB3 Inu (WEB3)",
       "address": "0xd0c4bc1b89bbd105eecb7eba3f13e7648c0de38f",
       "price": "$0.000.",
@@ -209,6 +209,16 @@
       "volume": "$28,235.00",
       "marketCap": "--",
       "holders": "341,307"
+    },
+    {
+      "coinName": "Synapse (SYN)",
+      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+      "price": "$3.1228",
+      "change": "13.71%",
+      "isUp": true,
+      "volume": "$27,451,124.00",
+      "marketCap": "--",
+      "holders": "3,250"
     },
     {
       "coinName": "CryptoBlades Skill Token (SKILL)",
@@ -229,26 +239,6 @@
       "volume": "$2,712,927.00",
       "marketCap": "$29,701,246.00",
       "holders": "1,733"
-    },
-    {
-      "coinName": "Synapse (SYN)",
-      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
-      "price": "$3.1125",
-      "change": "13.10%",
-      "isUp": true,
-      "volume": "$27,347,759.00",
-      "marketCap": "--",
-      "holders": "3,250"
-    },
-    {
-      "coinName": "Binance-Peg Synthetix Network Token (SNX)",
-      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
-      "price": "$7.7196",
-      "change": "13.08%",
-      "isUp": true,
-      "volume": "$411,295,750.00",
-      "marketCap": "$886,533,276.00",
-      "holders": "7,745"
     },
     {
       "coinName": "DOGGY (DOGGY)",
@@ -291,6 +281,16 @@
       "holders": "50,973"
     },
     {
+      "coinName": "Binance-Peg Synthetix Network Token (SNX)",
+      "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+      "price": "$7.6854",
+      "change": "11.88%",
+      "isUp": true,
+      "volume": "$411,098,772.00",
+      "marketCap": "$882,601,972.00",
+      "holders": "7,745"
+    },
+    {
       "coinName": "Tokocrypto Token (TKO)",
       "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
       "price": "$0.9964",
@@ -303,11 +303,11 @@
     {
       "coinName": "Torum (XTM)",
       "address": "0xcd1faff6e578fa5cac469d2418c95671ba1a62fe",
-      "price": "$0.2277",
-      "change": "11.40%",
+      "price": "$0.2281",
+      "change": "11.70%",
       "isUp": true,
-      "volume": "$2,418,904.00",
-      "marketCap": "$18,378,139.00",
+      "volume": "$2,426,302.00",
+      "marketCap": "$18,406,378.00",
       "holders": "12,035"
     },
     {
@@ -391,6 +391,16 @@
       "holders": "2,633"
     },
     {
+      "coinName": "Binance-Peg NEAR Protocol (NEAR)",
+      "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+      "price": "$14.610",
+      "change": "9.46%",
+      "isUp": true,
+      "volume": "$742,296,912.00",
+      "marketCap": "$9,630,747,293.00",
+      "holders": "16,600"
+    },
+    {
       "coinName": "ApeSwapFinance Banana (BANANA)",
       "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
       "price": "$0.4758",
@@ -421,16 +431,6 @@
       "holders": "3,076"
     },
     {
-      "coinName": "Binance-Peg Maker (MKR)",
-      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
-      "price": "$2,285.",
-      "change": "9.38%",
-      "isUp": true,
-      "volume": "$108,350,940.00",
-      "marketCap": "$2,234,514,573.00",
-      "holders": "2,981"
-    },
-    {
       "coinName": "Automata (ATA)",
       "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
       "price": "$0.5272",
@@ -449,6 +449,16 @@
       "volume": "$20,431,369.00",
       "marketCap": "$78,865,945.00",
       "holders": "70,023"
+    },
+    {
+      "coinName": "Binance-Peg Maker (MKR)",
+      "address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
+      "price": "$2,287.",
+      "change": "9.33%",
+      "isUp": true,
+      "volume": "$109,125,854.00",
+      "marketCap": "$2,236,506,316.00",
+      "holders": "2,981"
     },
     {
       "coinName": "Sea Token (SEA)",
@@ -489,16 +499,6 @@
       "volume": "$5,025,170.00",
       "marketCap": "$42,184,497.00",
       "holders": "1,864"
-    },
-    {
-      "coinName": "Linear Token (LINA)",
-      "address": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
-      "price": "$0.0283",
-      "change": "8.45%",
-      "isUp": true,
-      "volume": "$796,034.00",
-      "marketCap": "--",
-      "holders": "21,488"
     }
   ]
 }
