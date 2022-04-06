@@ -51,16 +51,6 @@
       "holders": "3,307"
     },
     {
-      "coinName": "PontoonToken (TOON)",
-      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-      "price": "$0.1323",
-      "change": "23.48%",
-      "isUp": true,
-      "volume": "$98,541.00",
-      "marketCap": "--",
-      "holders": "1,963"
-    },
-    {
       "coinName": "Talkado (TALK)",
       "address": "0x7606267A4bfff2c5010c92924348C3e4221955f2",
       "price": "$0.000.",
@@ -71,14 +61,14 @@
       "holders": "4,005"
     },
     {
-      "coinName": "BSCstarter (START)",
-      "address": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
-      "price": "$0.6854",
-      "change": "18.63%",
+      "coinName": "PontoonToken (TOON)",
+      "address": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
+      "price": "$0.1315",
+      "change": "23.25%",
       "isUp": true,
-      "volume": "$183,859.00",
+      "volume": "$98,191.00",
       "marketCap": "--",
-      "holders": "10,337"
+      "holders": "1,963"
     },
     {
       "coinName": "Ramen Token (Ramen)",
@@ -93,8 +83,8 @@
     {
       "coinName": "CanYaCoin (CAN)",
       "address": "0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56",
-      "price": "$0.0186",
-      "change": "15.13%",
+      "price": "$0.0187",
+      "change": "15.30%",
       "isUp": true,
       "volume": "$6.00",
       "marketCap": "--",
@@ -123,11 +113,11 @@
     {
       "coinName": "Anyswap-BEP20 (ANY)",
       "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
-      "price": "$13.618",
-      "change": "8.50%",
+      "price": "$13.624",
+      "change": "8.54%",
       "isUp": true,
-      "volume": "$3,419,880.00",
-      "marketCap": "$253,845,848.00",
+      "volume": "$3,446,964.00",
+      "marketCap": "$253,945,501.00",
       "holders": "175,311"
     },
     {
@@ -196,9 +186,19 @@
       "price": "$0.0199",
       "change": "3.64%",
       "isUp": true,
-      "volume": "$116.00",
+      "volume": "$115.00",
       "marketCap": "--",
       "holders": "3,747"
+    },
+    {
+      "coinName": "SHIRO INU (SHIR)",
+      "address": "0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7",
+      "price": "$0.000.",
+      "change": "3.40%",
+      "isUp": true,
+      "volume": "$524.00",
+      "marketCap": "--",
+      "holders": "5,687"
     },
     {
       "coinName": "France REV Finance (FRF)",
@@ -224,10 +224,10 @@
       "coinName": "NFTY Token (NFTY)",
       "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
       "price": "$0.0932",
-      "change": "2.89%",
+      "change": "2.88%",
       "isUp": true,
-      "volume": "$3,193,850.00",
-      "marketCap": "$23,891,548.00",
+      "volume": "$3,193,524.00",
+      "marketCap": "$23,888,348.00",
       "holders": "13,913"
     },
     {
@@ -241,16 +241,6 @@
       "holders": "7,451"
     },
     {
-      "coinName": "SHIRO INU (SHIR)",
-      "address": "0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7",
-      "price": "$0.000.",
-      "change": "2.68%",
-      "isUp": true,
-      "volume": "$522.00",
-      "marketCap": "--",
-      "holders": "5,687"
-    },
-    {
       "coinName": "SYL (SYL)",
       "address": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
       "price": "$0.0025",
@@ -261,6 +251,16 @@
       "holders": "24,877"
     },
     {
+      "coinName": "Smart Advertising Transaction Token (SATT)",
+      "address": "0x448bee2d93be708b54ee6353a7cc35c4933f1156",
+      "price": "$0.0029",
+      "change": "2.33%",
+      "isUp": true,
+      "volume": "$364,227.00",
+      "marketCap": "$9,250,493.00",
+      "holders": "15,880"
+    },
+    {
       "coinName": "EarnX (EarnX)",
       "address": "0x0f76142D83ddEF359753ccA33647Cc4dCEe1C6d1",
       "price": "$0.0071",
@@ -269,16 +269,6 @@
       "volume": "$13,068.00",
       "marketCap": "--",
       "holders": "3,570"
-    },
-    {
-      "coinName": "Smart Advertising Transaction Token (SATT)",
-      "address": "0x448bee2d93be708b54ee6353a7cc35c4933f1156",
-      "price": "$0.0028",
-      "change": "2.03%",
-      "isUp": true,
-      "volume": "$367,887.00",
-      "marketCap": "$9,219,013.00",
-      "holders": "15,880"
     },
     {
       "coinName": "RigelToken (RGP)",
@@ -309,6 +299,16 @@
       "volume": "$136,730,887.00",
       "marketCap": "$248,307,534.00",
       "holders": "54,765"
+    },
+    {
+      "coinName": "BSCstarter (START)",
+      "address": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
+      "price": "$0.6925",
+      "change": "1.42%",
+      "isUp": true,
+      "volume": "$185,169.00",
+      "marketCap": "--",
+      "holders": "10,337"
     },
     {
       "coinName": "Binance-Peg BitTorrent Token (BTT)",
@@ -371,6 +371,16 @@
       "holders": "11,255"
     },
     {
+      "coinName": "Jointer (JNTR)",
+      "address": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
+      "price": "$0.0267",
+      "change": "0.54%",
+      "isUp": true,
+      "volume": "$87,714.00",
+      "marketCap": "--",
+      "holders": "5,268"
+    },
+    {
       "coinName": "WolfSafePoorPeople (WSPP)",
       "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
       "price": "$0.000.",
@@ -399,16 +409,6 @@
       "volume": "$3,727.00",
       "marketCap": "--",
       "holders": "815"
-    },
-    {
-      "coinName": "Jointer (JNTR)",
-      "address": "0x5f2caa99fc378248ac02cbbaac27e3fa155ed2c4",
-      "price": "$0.0264",
-      "change": "0.39%",
-      "isUp": true,
-      "volume": "$86,993.00",
-      "marketCap": "--",
-      "holders": "5,268"
     },
     {
       "coinName": "Vaulty Token (VLTY)",
@@ -481,6 +481,16 @@
       "holders": "3,654,201"
     },
     {
+      "coinName": "Venus BUSD (vBUSD)",
+      "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
+      "price": "$0.0215",
+      "change": "0.10%",
+      "isUp": true,
+      "volume": "$0.00",
+      "marketCap": "$57,969,983.00",
+      "holders": "8,526"
+    },
+    {
       "coinName": "UBUToken (UBU)",
       "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
       "price": "$0.0032",
@@ -489,16 +499,6 @@
       "volume": "$6.00",
       "marketCap": "$26,124.00",
       "holders": "3,076"
-    },
-    {
-      "coinName": "DEI (DEI)",
-      "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
-      "price": "$0.9984",
-      "change": "0.05%",
-      "isUp": true,
-      "volume": "$5,446,932.00",
-      "marketCap": "$105,319,334.00",
-      "holders": "24"
     }
   ]
 }
