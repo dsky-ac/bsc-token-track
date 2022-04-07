@@ -34,9 +34,9 @@
       "coinName": "SiaCashCoin (SCC)",
       "address": "0xc26EaFC627624baDf990f8d30116892eD204DB51",
       "price": "$0.000.",
-      "change": "26.97%",
+      "change": "27.61%",
       "isUp": true,
-      "volume": "$287.00",
+      "volume": "$288.00",
       "marketCap": "--",
       "holders": "16,538"
     },
@@ -64,19 +64,19 @@
       "coinName": "Green Chart (GREEN)",
       "address": "0x7403802c0FFeE2d83FB13513e23aAF4a3a9C69f0",
       "price": "$0.000.",
-      "change": "17.12%",
+      "change": "17.35%",
       "isUp": true,
-      "volume": "$10,925.00",
+      "volume": "$10,850.00",
       "marketCap": "--",
       "holders": "6,293"
     },
     {
       "coinName": "Titano (TITANO)",
       "address": "0xBA96731324dE188ebC1eD87ca74544dDEbC07D7f",
-      "price": "$0.1413",
-      "change": "16.53%",
+      "price": "$0.1410",
+      "change": "16.29%",
       "isUp": true,
-      "volume": "$1,959,597.00",
+      "volume": "$1,946,590.00",
       "marketCap": "--",
       "holders": "76,355"
     },
@@ -171,6 +171,16 @@
       "holders": "5,871"
     },
     {
+      "coinName": "Elemon Token (ELMON)",
+      "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
+      "price": "$0.1406",
+      "change": "10.77%",
+      "isUp": true,
+      "volume": "$311,785.00",
+      "marketCap": "--",
+      "holders": "41,506"
+    },
+    {
       "coinName": "OwlDAO token (OWL)",
       "address": "0x9085b4d52c3e0b8b6f9af6213e85a433c7d76f19",
       "price": "$0.0129",
@@ -191,20 +201,10 @@
       "holders": "16,006"
     },
     {
-      "coinName": "Elemon Token (ELMON)",
-      "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
-      "price": "$0.1396",
-      "change": "9.66%",
-      "isUp": true,
-      "volume": "$310,632.00",
-      "marketCap": "--",
-      "holders": "41,506"
-    },
-    {
       "coinName": "Nemesis Wealth Projects BSC (NMS)",
       "address": "0x8cb4fdb148d87f7ec493e69391347bdd3ff1163f",
       "price": "$0.000.",
-      "change": "9.08%",
+      "change": "9.18%",
       "isUp": true,
       "volume": "$519.00",
       "marketCap": "--",
@@ -254,9 +254,9 @@
       "coinName": "Little Angry Bunny v2 (LAB v2)",
       "address": "0x07f5ceded6b3dba557b3663edc8941fb37b63945",
       "price": "$0.000.",
-      "change": "6.88%",
+      "change": "6.77%",
       "isUp": true,
-      "volume": "$3,580.00",
+      "volume": "$3,637.00",
       "marketCap": "--",
       "holders": "30,938"
     },
@@ -299,6 +299,16 @@
       "volume": "$1,373,544,603.00",
       "marketCap": "$5,679,972,744.00",
       "holders": "17,031"
+    },
+    {
+      "coinName": "Space Token (SPACE)",
+      "address": "0x9d9affac2175ef541642035ab66f5fe7df813851",
+      "price": "$0.0267",
+      "change": "5.67%",
+      "isUp": true,
+      "volume": "$5,828.00",
+      "marketCap": "--",
+      "holders": "2,654"
     },
     {
       "coinName": "Binance-Peg Kyber Network Crystal Token (KNC)",
@@ -489,16 +499,6 @@
       "volume": "$2,627,869.00",
       "marketCap": "$24,554,514.00",
       "holders": "13,905"
-    },
-    {
-      "coinName": "FLOKI (FLOKI)",
-      "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
-      "price": "$0.000.",
-      "change": "3.64%",
-      "isUp": true,
-      "volume": "$15,417,152.00",
-      "marketCap": "$307,696,034.00",
-      "holders": "349,905"
     }
   ]
 }
