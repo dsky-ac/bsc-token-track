@@ -73,11 +73,11 @@
     {
       "coinName": "Binance-Peg NEAR Protocol (NEAR)",
       "address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
-      "price": "$18.017",
-      "change": "20.54%",
+      "price": "$17.972",
+      "change": "19.57%",
       "isUp": true,
-      "volume": "$3,168,358,001.00",
-      "marketCap": "$11,966,964,988.00",
+      "volume": "$3,182,100,723.00",
+      "marketCap": "$11,937,226,829.00",
       "holders": "17,012"
     },
     {
@@ -114,9 +114,9 @@
       "coinName": "Annex (ANN)",
       "address": "0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067",
       "price": "$0.0498",
-      "change": "11.20%",
+      "change": "10.87%",
       "isUp": true,
-      "volume": "$939,600.00",
+      "volume": "$929,682.00",
       "marketCap": "--",
       "holders": "12,864"
     },
@@ -191,6 +191,16 @@
       "holders": "6,295"
     },
     {
+      "coinName": "Binance-Peg Zcash Token (ZEC)",
+      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "price": "$181.24",
+      "change": "8.46%",
+      "isUp": true,
+      "volume": "$384,883,163.00",
+      "marketCap": "$2,559,960,499.00",
+      "holders": "5,026"
+    },
+    {
       "coinName": "VFOX (VFOX)",
       "address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
       "price": "$0.8270",
@@ -261,16 +271,6 @@
       "holders": "15,819"
     },
     {
-      "coinName": "Binance-Peg Zcash Token (ZEC)",
-      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
-      "price": "$179.50",
-      "change": "6.71%",
-      "isUp": true,
-      "volume": "$376,342,065.00",
-      "marketCap": "$2,535,432,069.00",
-      "holders": "5,026"
-    },
-    {
       "coinName": "Wrapped Idena (iDNA)",
       "address": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b",
       "price": "$0.0981",
@@ -331,6 +331,16 @@
       "holders": "9,660"
     },
     {
+      "coinName": "cheesemaker.farm (CHS)",
+      "address": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
+      "price": "$0.0235",
+      "change": "4.92%",
+      "isUp": true,
+      "volume": "$27,869.00",
+      "marketCap": "--",
+      "holders": "5,914"
+    },
+    {
       "coinName": "EarnX (EarnX)",
       "address": "0x0f76142D83ddEF359753ccA33647Cc4dCEe1C6d1",
       "price": "$0.0078",
@@ -351,23 +361,23 @@
       "holders": "5,423"
     },
     {
-      "coinName": "SHIRO INU (SHIR)",
-      "address": "0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7",
-      "price": "$0.000.",
-      "change": "4.32%",
+      "coinName": "Frontier Token (FRONT)",
+      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+      "price": "$0.5675",
+      "change": "4.78%",
       "isUp": true,
-      "volume": "$987.00",
-      "marketCap": "--",
-      "holders": "5,685"
+      "volume": "$22,638,926.00",
+      "marketCap": "$49,631,981.00",
+      "holders": "11,782"
     },
     {
       "coinName": "Trust Wallet (TWT)",
       "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
-      "price": "$1.1960",
-      "change": "4.19%",
+      "price": "$1.1958",
+      "change": "4.49%",
       "isUp": true,
-      "volume": "$29,180,886.00",
-      "marketCap": "$414,944,712.00",
+      "volume": "$29,230,268.00",
+      "marketCap": "$414,868,926.00",
       "holders": "269,031"
     },
     {
@@ -379,6 +389,16 @@
       "volume": "$353,911.00",
       "marketCap": "--",
       "holders": "144,327"
+    },
+    {
+      "coinName": "SHIRO INU (SHIR)",
+      "address": "0x4ddba615a7f6ee612d3a23c6882b698dfbbef7e7",
+      "price": "$0.000.",
+      "change": "3.92%",
+      "isUp": true,
+      "volume": "$987.00",
+      "marketCap": "--",
+      "holders": "5,685"
     },
     {
       "coinName": "Frax Share (FXS)",
@@ -421,14 +441,14 @@
       "holders": "2,455"
     },
     {
-      "coinName": "Frontier Token (FRONT)",
-      "address": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
-      "price": "$0.5566",
-      "change": "2.90%",
+      "coinName": "Billion Happiness (BHC)",
+      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
+      "price": "$96.978",
+      "change": "2.87%",
       "isUp": true,
-      "volume": "$21,989,932.00",
-      "marketCap": "$48,674,007.00",
-      "holders": "11,782"
+      "volume": "$355,333.00",
+      "marketCap": "$4,848,909.00",
+      "holders": "9,659"
     },
     {
       "coinName": "Venus ETH (vETH)",
@@ -451,36 +471,6 @@
       "holders": "8,975"
     },
     {
-      "coinName": "Billion Happiness (BHC)",
-      "address": "0x6fd7c98458a943f469e1cf4ea85b173f5cd342f4",
-      "price": "$96.931",
-      "change": "2.54%",
-      "isUp": true,
-      "volume": "$353,143.00",
-      "marketCap": "$4,846,584.00",
-      "holders": "9,659"
-    },
-    {
-      "coinName": "Binance-Peg Compound Coin (COMP)",
-      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
-      "price": "$140.14",
-      "change": "2.43%",
-      "isUp": true,
-      "volume": "$82,437,198.00",
-      "marketCap": "$939,345,811.00",
-      "holders": "10,763"
-    },
-    {
-      "coinName": "Synapse (SYN)",
-      "address": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
-      "price": "$3.4394",
-      "change": "2.35%",
-      "isUp": true,
-      "volume": "$22,745,347.00",
-      "marketCap": "--",
-      "holders": "3,238"
-    },
-    {
       "coinName": "Binance-Peg Phala Network Token (PHA)",
       "address": "0x0112e557d400474717056c4e6d40edd846f38351",
       "price": "$0.2943",
@@ -499,6 +489,16 @@
       "volume": "$77,485,180.00",
       "marketCap": "$1,999,609,345.00",
       "holders": "5,467"
+    },
+    {
+      "coinName": "Binance-Peg Cosmos Token (ATOM)",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "price": "$27.969",
+      "change": "2.22%",
+      "isUp": true,
+      "volume": "$586,780,096.00",
+      "marketCap": "$8,009,701,220.00",
+      "holders": "35,638"
     }
   ]
 }
