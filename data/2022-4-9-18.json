@@ -93,11 +93,11 @@
     {
       "coinName": "Anyswap-BEP20 (ANY)",
       "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
-      "price": "$14.082",
-      "change": "11.26%",
+      "price": "$14.097",
+      "change": "11.22%",
       "isUp": true,
-      "volume": "$733,386.00",
-      "marketCap": "$262,493,881.00",
+      "volume": "$735,897.00",
+      "marketCap": "$262,763,763.00",
       "holders": "175,157"
     },
     {
@@ -114,9 +114,9 @@
       "coinName": "Annex (ANN)",
       "address": "0x98936Bde1CF1BFf1e7a8012Cee5e2583851f2067",
       "price": "$0.0552",
-      "change": "9.11%",
+      "change": "9.47%",
       "isUp": true,
-      "volume": "$625,778.00",
+      "volume": "$626,349.00",
       "marketCap": "--",
       "holders": "12,849"
     },
@@ -143,12 +143,22 @@
     {
       "coinName": "cheesemaker.farm (CHS)",
       "address": "0xadd8a06fd58761a5047426e160b2b88ad3b9d464",
-      "price": "$0.0246",
-      "change": "5.58%",
+      "price": "$0.0247",
+      "change": "6.47%",
       "isUp": true,
-      "volume": "$32,323.00",
+      "volume": "$32,415.00",
       "marketCap": "--",
       "holders": "5,917"
+    },
+    {
+      "coinName": "Binance-Peg TornadoCash Token (TORN)",
+      "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
+      "price": "$46.596",
+      "change": "5.60%",
+      "isUp": true,
+      "volume": "$7,101,375.00",
+      "marketCap": "$51,246,759.00",
+      "holders": "2,230"
     },
     {
       "coinName": "Lunar (LNR)",
@@ -169,6 +179,16 @@
       "volume": "$5,906,871.00",
       "marketCap": "--",
       "holders": "9,673"
+    },
+    {
+      "coinName": "Kiwi Token (KIWI)",
+      "address": "0xcfdf8a80fecaeecc144fa74c0df8691bfd0e26e3",
+      "price": "$0.0553",
+      "change": "4.74%",
+      "isUp": true,
+      "volume": "$5,565.00",
+      "marketCap": "--",
+      "holders": "802"
     },
     {
       "coinName": "MATH Token (MATH)",
@@ -199,16 +219,6 @@
       "volume": "$4,053,471.00",
       "marketCap": "$44,213,184.00",
       "holders": "1,904"
-    },
-    {
-      "coinName": "Kiwi Token (KIWI)",
-      "address": "0xcfdf8a80fecaeecc144fa74c0df8691bfd0e26e3",
-      "price": "$0.0553",
-      "change": "4.14%",
-      "isUp": true,
-      "volume": "$5,772.00",
-      "marketCap": "--",
-      "holders": "802"
     },
     {
       "coinName": "MMToken (MM)",
@@ -251,16 +261,6 @@
       "holders": "677"
     },
     {
-      "coinName": "Wrapped MIR Token (MIR)",
-      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
-      "price": "$1.9085",
-      "change": "3.35%",
-      "isUp": true,
-      "volume": "$91,341,402.00",
-      "marketCap": "$148,368,310.00",
-      "holders": "5,867"
-    },
-    {
       "coinName": "Sun Token (SUN)",
       "address": "0xa1e6c58d503e4eee986167f45a063853cefe08c3",
       "price": "$0.0159",
@@ -289,16 +289,6 @@
       "volume": "$10,657.00",
       "marketCap": "--",
       "holders": "2,454"
-    },
-    {
-      "coinName": "Binance-Peg TornadoCash Token (TORN)",
-      "address": "0x1ba8d3c4c219b124d351f603060663bd1bcd9bbf",
-      "price": "$45.504",
-      "change": "3.10%",
-      "isUp": true,
-      "volume": "$5,610,013.00",
-      "marketCap": "$50,045,015.00",
-      "holders": "2,230"
     },
     {
       "coinName": "808TA (808TA)",
@@ -331,6 +321,16 @@
       "holders": "237"
     },
     {
+      "coinName": "Wrapped MIR Token (MIR)",
+      "address": "0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9",
+      "price": "$1.8957",
+      "change": "2.66%",
+      "isUp": true,
+      "volume": "$91,899,042.00",
+      "marketCap": "$147,372,983.00",
+      "holders": "5,867"
+    },
+    {
       "coinName": "Pylon Eco Token (PETN)",
       "address": "0x57457b5d725d85a70a3625d6a71818304e773618",
       "price": "$0.5582",
@@ -339,6 +339,16 @@
       "volume": "$811,587.00",
       "marketCap": "--",
       "holders": "8,977"
+    },
+    {
+      "coinName": "DVX (DRIVENx)",
+      "address": "0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e",
+      "price": "$0.0072",
+      "change": "1.88%",
+      "isUp": true,
+      "volume": "$3,662.00",
+      "marketCap": "--",
+      "holders": "5,576"
     },
     {
       "coinName": "CBK (CBK)",
@@ -351,16 +361,6 @@
       "holders": "1,480"
     },
     {
-      "coinName": "DVX (DRIVENx)",
-      "address": "0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e",
-      "price": "$0.0072",
-      "change": "1.67%",
-      "isUp": true,
-      "volume": "$3,654.00",
-      "marketCap": "--",
-      "holders": "5,576"
-    },
-    {
       "coinName": "Swipe (SXP)",
       "address": "0x47bead2563dcbf3bf2c9407fea4dc236faba485a",
       "price": "$1.2762",
@@ -369,6 +369,16 @@
       "volume": "$136,730,887.00",
       "marketCap": "$248,307,534.00",
       "holders": "54,863"
+    },
+    {
+      "coinName": "AUTOv2 (AUTO)",
+      "address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
+      "price": "$441.91",
+      "change": "1.41%",
+      "isUp": true,
+      "volume": "$2,172,695.00",
+      "marketCap": "$23,422,557.00",
+      "holders": "64,987"
     },
     {
       "coinName": "Binance-Peg BitTorrent Token (BTT)",
@@ -411,14 +421,34 @@
       "holders": "4,009"
     },
     {
+      "coinName": "Smart Advertising Transaction Token (SATT)",
+      "address": "0x448bee2d93be708b54ee6353a7cc35c4933f1156",
+      "price": "$0.0028",
+      "change": "1.17%",
+      "isUp": true,
+      "volume": "$190,138.00",
+      "marketCap": "$9,110,625.00",
+      "holders": "15,873"
+    },
+    {
       "coinName": "RobustSwap Token (RBS)",
       "address": "0x95336aC5f7E840e7716781313e1607F7C9D6BE25",
-      "price": "$1.5530",
-      "change": "0.93%",
+      "price": "$1.5541",
+      "change": "1.00%",
       "isUp": true,
-      "volume": "$2,604.00",
+      "volume": "$2,606.00",
       "marketCap": "--",
       "holders": "4,633"
+    },
+    {
+      "coinName": "Binance-Peg PAX Gold (PAXG)",
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "price": "$1,950.",
+      "change": "0.91%",
+      "isUp": true,
+      "volume": "$16,807,888.00",
+      "marketCap": "$620,276,135.00",
+      "holders": "2"
     },
     {
       "coinName": "QANX Token (QANX)",
@@ -429,16 +459,6 @@
       "volume": "$441,629.00",
       "marketCap": "$68,718,954.00",
       "holders": "17,573"
-    },
-    {
-      "coinName": "Binance-Peg PAX Gold (PAXG)",
-      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
-      "price": "$1,949.",
-      "change": "0.88%",
-      "isUp": true,
-      "volume": "$16,757,954.00",
-      "marketCap": "$619,981,930.00",
-      "holders": "2"
     },
     {
       "coinName": "SYL (SYL)",
@@ -479,26 +499,6 @@
       "volume": "$67,510,349.00",
       "marketCap": "$2,697,110,642.00",
       "holders": "552"
-    },
-    {
-      "coinName": "BIDR BEP20 (BIDR)",
-      "address": "0x9a2f5556e9a637e8fbce886d8e3cf8b316a1d8a2",
-      "price": "$0.0001",
-      "change": "0.35%",
-      "isUp": true,
-      "volume": "$24,477,857.00",
-      "marketCap": "$15,867,865.00",
-      "holders": "6,046"
-    },
-    {
-      "coinName": "Tokocrypto Token (TKO)",
-      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
-      "price": "$0.8824",
-      "change": "0.32%",
-      "isUp": true,
-      "volume": "$55,320,259.00",
-      "marketCap": "$66,080,401.00",
-      "holders": "44,848"
     }
   ]
 }
