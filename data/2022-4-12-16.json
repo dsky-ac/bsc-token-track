@@ -24,7 +24,7 @@
       "coinName": "Ramen Token (Ramen)",
       "address": "0x4f47a0d15c1e53f3d94c069c7d16977c29f9cb6b",
       "price": "$0.010.",
-      "change": "66.62%",
+      "change": "66.56%",
       "isUp": true,
       "volume": "$134.00",
       "marketCap": "--",
@@ -63,31 +63,41 @@
     {
       "coinName": "AlpacaToken (ALPACA)",
       "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-      "price": "$0.6747",
-      "change": "24.48%",
+      "price": "$0.6749",
+      "change": "24.59%",
       "isUp": true,
-      "volume": "$92,296,864.00",
-      "marketCap": "$104,004,231.00",
+      "volume": "$92,717,391.00",
+      "marketCap": "$103,751,385.00",
       "holders": "70,260"
+    },
+    {
+      "coinName": "SiaCashCoin (SCC)",
+      "address": "0xc26EaFC627624baDf990f8d30116892eD204DB51",
+      "price": "$0.000.",
+      "change": "22.08%",
+      "isUp": true,
+      "volume": "$43.00",
+      "marketCap": "--",
+      "holders": "16,537"
     },
     {
       "coinName": "SwftCoin (SWFTC)",
       "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
       "price": "$0.0029",
-      "change": "19.37%",
+      "change": "19.28%",
       "isUp": true,
-      "volume": "$6,628,056.00",
-      "marketCap": "$18,600,638.00",
+      "volume": "$6,651,779.00",
+      "marketCap": "$18,628,258.00",
       "holders": "764"
     },
     {
       "coinName": "Spore (SPORE)",
       "address": "0x33a3d962955a3862c8093d1273344719f03ca17c",
       "price": "$0.000.",
-      "change": "15.84%",
+      "change": "15.94%",
       "isUp": true,
-      "volume": "$2,319.00",
-      "marketCap": "$1,505,719.00",
+      "volume": "$2,321.00",
+      "marketCap": "$1,507,236.00",
       "holders": "146,594"
     },
     {
@@ -104,91 +114,91 @@
       "coinName": "Hakka Finance on xDai on BSC (HAKKA)",
       "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
       "price": "$0.0079",
-      "change": "12.64%",
+      "change": "11.80%",
       "isUp": true,
-      "volume": "$13,442.00",
-      "marketCap": "$2,296,351.00",
+      "volume": "$13,262.00",
+      "marketCap": "$2,324,741.00",
       "holders": "4,657"
-    },
-    {
-      "coinName": "SiaCashCoin (SCC)",
-      "address": "0xc26EaFC627624baDf990f8d30116892eD204DB51",
-      "price": "$0.000.",
-      "change": "10.97%",
-      "isUp": true,
-      "volume": "$43.00",
-      "marketCap": "--",
-      "holders": "16,537"
-    },
-    {
-      "coinName": "Ellipsis (EPS)",
-      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
-      "price": "$0.2323",
-      "change": "10.82%",
-      "isUp": true,
-      "volume": "$42,729,061.00",
-      "marketCap": "$161,995,452.00",
-      "holders": "33,464"
-    },
-    {
-      "coinName": "MATH Token (MATH)",
-      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
-      "price": "$0.3506",
-      "change": "9.30%",
-      "isUp": true,
-      "volume": "$1,074,660.00",
-      "marketCap": "$52,553,221.00",
-      "holders": "39,678"
     },
     {
       "coinName": "2local Token (2LC)",
       "address": "0x11f6ecc9e2658627e0876212f1078b9f84d3196e",
       "price": "$0.000.",
-      "change": "9.16%",
+      "change": "9.80%",
       "isUp": true,
-      "volume": "$1,730.00",
-      "marketCap": "$47,288.00",
+      "volume": "$1,613.00",
+      "marketCap": "$47,319.00",
       "holders": "27,109"
+    },
+    {
+      "coinName": "Ellipsis (EPS)",
+      "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
+      "price": "$0.2298",
+      "change": "9.79%",
+      "isUp": true,
+      "volume": "$44,151,979.00",
+      "marketCap": "$160,417,480.00",
+      "holders": "33,464"
+    },
+    {
+      "coinName": "MATH Token (MATH)",
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "price": "$0.3534",
+      "change": "9.75%",
+      "isUp": true,
+      "volume": "$1,065,834.00",
+      "marketCap": "$52,594,872.00",
+      "holders": "39,678"
     },
     {
       "coinName": "SafeMoon (SFM)",
       "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
       "price": "$0.0009",
-      "change": "8.34%",
+      "change": "8.07%",
       "isUp": true,
-      "volume": "$2,271,201.00",
-      "marketCap": "$513,680,753.00",
+      "volume": "$2,264,599.00",
+      "marketCap": "$512,779,613.00",
       "holders": "654,713"
+    },
+    {
+      "coinName": "Curate on BSC (XCUR)",
+      "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
+      "price": "$1.250.",
+      "change": "6.71%",
+      "isUp": true,
+      "volume": "$1,770,048.00",
+      "marketCap": "$10,282,039.00",
+      "holders": "18,496"
     },
     {
       "coinName": "UBUToken (UBU)",
       "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
       "price": "$0.0034",
-      "change": "6.16%",
+      "change": "6.04%",
       "isUp": true,
       "volume": "$8.00",
-      "marketCap": "$27,759.00",
+      "marketCap": "$27,757.00",
       "holders": "3,079"
     },
     {
       "coinName": "Robust Token (RBT)",
       "address": "0x891e4554227385c5c740f9b483e935e3cbc29f01",
-      "price": "$12.930",
-      "change": "6.13%",
+      "price": "$12.890",
+      "change": "5.76%",
       "isUp": true,
-      "volume": "$3,298.00",
-      "marketCap": "$452,012.00",
+      "volume": "$3,389.00",
+      "marketCap": "$452,146.00",
       "holders": "4,746"
     },
     {
-      "coinName": "GamyFi (GFX)",
-      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
-      "price": "$0.2318",
-      "change": "5.15%",
+      "coinName": "WalletNow (WNOW)",
+      "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
+      "price": "$0.0386",
+      "change": "5.19%",
       "isUp": true,
-      "volume": "$1,050.00",
-      "marketCap": "$741,432.00",
-      "holders": "955"
+      "volume": "$3,842.00",
+      "marketCap": "--",
+      "holders": "5,622"
     },
     {
       "coinName": "Binance Beacon ETH (BETH)",
@@ -201,14 +211,24 @@
       "holders": "9,671"
     },
     {
-      "coinName": "WalletNow (WNOW)",
-      "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
-      "price": "$0.0386",
-      "change": "5.06%",
+      "coinName": "GamyFi (GFX)",
+      "address": "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+      "price": "$0.2316",
+      "change": "4.99%",
       "isUp": true,
-      "volume": "$3,879.00",
+      "volume": "$1,000.00",
+      "marketCap": "$741,941.00",
+      "holders": "955"
+    },
+    {
+      "coinName": "Sea Token (SEA)",
+      "address": "0xfb52fc1f90dd2b070b9cf7ad68ac3d68905643fa",
+      "price": "$0.0015",
+      "change": "4.89%",
+      "isUp": true,
+      "volume": "$1,206.00",
       "marketCap": "--",
-      "holders": "5,622"
+      "holders": "1,495"
     },
     {
       "coinName": "Binance-Peg NEAR Protocol (NEAR)",
@@ -219,16 +239,6 @@
       "volume": "$2,015,346,397.00",
       "marketCap": "$10,991,185,477.00",
       "holders": "17,603"
-    },
-    {
-      "coinName": "Sea Token (SEA)",
-      "address": "0xfb52fc1f90dd2b070b9cf7ad68ac3d68905643fa",
-      "price": "$0.0015",
-      "change": "4.61%",
-      "isUp": true,
-      "volume": "$1,204.00",
-      "marketCap": "--",
-      "holders": "1,495"
     },
     {
       "coinName": "Graviton (GTON)",
@@ -251,6 +261,16 @@
       "holders": "4,003"
     },
     {
+      "coinName": "Lucky Unicorn Token (L99)",
+      "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
+      "price": "$0.0012",
+      "change": "3.39%",
+      "isUp": true,
+      "volume": "$4,337.00",
+      "marketCap": "--",
+      "holders": "8,034"
+    },
+    {
       "coinName": "Elemon Token (ELMON)",
       "address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
       "price": "$0.1276",
@@ -271,34 +291,14 @@
       "holders": "2,456"
     },
     {
-      "coinName": "Lucky Unicorn Token (L99)",
-      "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
-      "price": "$0.0012",
-      "change": "3.01%",
-      "isUp": true,
-      "volume": "$4,331.00",
-      "marketCap": "--",
-      "holders": "8,034"
-    },
-    {
       "coinName": "MMToken (MM)",
       "address": "0x73f059db0182dc2ed716d028e1b13033cfcbf63b",
       "price": "$1.820.",
-      "change": "2.98%",
+      "change": "2.96%",
       "isUp": true,
-      "volume": "$17,532.00",
-      "marketCap": "$745,002.00",
+      "volume": "$17,554.00",
+      "marketCap": "$745,727.00",
       "holders": "199"
-    },
-    {
-      "coinName": "Curate on BSC (XCUR)",
-      "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
-      "price": "$1.210.",
-      "change": "2.93%",
-      "isUp": true,
-      "volume": "$1,646,305.00",
-      "marketCap": "$10,267,029.00",
-      "holders": "18,496"
     },
     {
       "coinName": "Venus ETH (vETH)",
@@ -324,50 +324,50 @@
       "coinName": "SYL (SYL)",
       "address": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
       "price": "$0.0028",
-      "change": "2.64%",
-      "isUp": true,
-      "volume": "$161,332.00",
-      "marketCap": "--",
-      "holders": "24,900"
-    },
-    {
-      "coinName": "Twinci (TWIN)",
-      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
-      "price": "$0.1787",
       "change": "2.54%",
       "isUp": true,
-      "volume": "$59,117.00",
-      "marketCap": "$356,528.00",
-      "holders": "3,212"
-    },
-    {
-      "coinName": "Binance-Peg Kyber Network Crystal Token (KNC)",
-      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
-      "price": "$4.170.",
-      "change": "2.51%",
-      "isUp": true,
-      "volume": "$125,370,188.00",
-      "marketCap": "$427,255,636.00",
-      "holders": "3,333"
+      "volume": "$162,611.00",
+      "marketCap": "--",
+      "holders": "24,900"
     },
     {
       "coinName": "Lympo Market Token (LMT)",
       "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
       "price": "$0.0041",
-      "change": "2.45%",
+      "change": "2.49%",
       "isUp": true,
-      "volume": "$19,808.00",
-      "marketCap": "$635,459.00",
+      "volume": "$19,819.00",
+      "marketCap": "$636,391.00",
       "holders": "5,419"
+    },
+    {
+      "coinName": "Binance-Peg Kyber Network Crystal Token (KNC)",
+      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+      "price": "$4.170.",
+      "change": "2.47%",
+      "isUp": true,
+      "volume": "$133,598,502.00",
+      "marketCap": "$427,648,274.00",
+      "holders": "3,333"
+    },
+    {
+      "coinName": "Twinci (TWIN)",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "price": "$0.1789",
+      "change": "2.13%",
+      "isUp": true,
+      "volume": "$59,119.00",
+      "marketCap": "$357,499.00",
+      "holders": "3,212"
     },
     {
       "coinName": "OVR (OVR)",
       "address": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
       "price": "$1.470.",
-      "change": "1.89%",
+      "change": "1.94%",
       "isUp": true,
-      "volume": "$2,064,814.00",
-      "marketCap": "$41,335,658.00",
+      "volume": "$2,074,003.00",
+      "marketCap": "$41,372,729.00",
       "holders": "29,098"
     },
     {
@@ -391,6 +391,16 @@
       "holders": "54,975"
     },
     {
+      "coinName": "binance conflux Flux Protocol (bcFLUX)",
+      "address": "0x0747cda49c82d3fc6b06df1822e1de0c16673e9f",
+      "price": "$0.0552",
+      "change": "1.49%",
+      "isUp": true,
+      "volume": "$1,405.00",
+      "marketCap": "--",
+      "holders": "1,514"
+    },
+    {
       "coinName": "Phoswap (PHO)",
       "address": "0xb9784c1633ef3b839563b988c323798634714368",
       "price": "$0.0281",
@@ -399,16 +409,6 @@
       "volume": "$3,607.00",
       "marketCap": "--",
       "holders": "3,746"
-    },
-    {
-      "coinName": "binance conflux Flux Protocol (bcFLUX)",
-      "address": "0x0747cda49c82d3fc6b06df1822e1de0c16673e9f",
-      "price": "$0.0552",
-      "change": "1.41%",
-      "isUp": true,
-      "volume": "$1,403.00",
-      "marketCap": "--",
-      "holders": "1,514"
     },
     {
       "coinName": "Binance-Peg BitTorrent Token (BTT)",
@@ -441,44 +441,34 @@
       "holders": "10,348"
     },
     {
-      "coinName": "Tycoon Token (TYC)",
-      "address": "0x8DFD366ff98390ea35EaacB35673279218A596A5",
-      "price": "$0.0250",
-      "change": "0.81%",
-      "isUp": true,
-      "volume": "$148,455.00",
-      "marketCap": "$2,240,925.00",
-      "holders": "10"
-    },
-    {
       "coinName": "Talkado (TALK)",
       "address": "0x7606267A4bfff2c5010c92924348C3e4221955f2",
       "price": "$0.000.",
-      "change": "0.81%",
+      "change": "1.11%",
       "isUp": true,
-      "volume": "$344,879.00",
+      "volume": "$349,313.00",
       "marketCap": "--",
       "holders": "4,011"
     },
     {
-      "coinName": "Frax (FRAX)",
-      "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-      "price": "$1.0010",
-      "change": "0.68%",
+      "coinName": "Tycoon Token (TYC)",
+      "address": "0x8DFD366ff98390ea35EaacB35673279218A596A5",
+      "price": "$0.0250",
+      "change": "0.67%",
       "isUp": true,
-      "volume": "$33,093,757.00",
-      "marketCap": "$2,696,918,798.00",
-      "holders": "554"
+      "volume": "$148,852.00",
+      "marketCap": "$2,242,228.00",
+      "holders": "10"
     },
     {
-      "coinName": "Binance-Peg Axie Infinity Shard Token (AXS)",
-      "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
-      "price": "$47.860",
-      "change": "0.66%",
+      "coinName": "Frax (FRAX)",
+      "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
+      "price": "$1.0020",
+      "change": "0.57%",
       "isUp": true,
-      "volume": "$418,944,226.00",
-      "marketCap": "$3,696,942,517.00",
-      "holders": "73,595"
+      "volume": "$34,063,399.00",
+      "marketCap": "$2,699,726,907.00",
+      "holders": "554"
     },
     {
       "coinName": "N1CEToken (N1CE)",
@@ -489,6 +479,16 @@
       "volume": "$3,853.00",
       "marketCap": "--",
       "holders": "11,257"
+    },
+    {
+      "coinName": "Multiplier (bMXX)",
+      "address": "0x4131b87f74415190425ccd873048c708f8005823",
+      "price": "$0.0124",
+      "change": "0.55%",
+      "isUp": true,
+      "volume": "$1,078.00",
+      "marketCap": "$28,870.00",
+      "holders": "5,417"
     },
     {
       "coinName": "DVX (DRIVENx)",
