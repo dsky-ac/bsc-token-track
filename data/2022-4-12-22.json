@@ -44,7 +44,7 @@
       "coinName": "SiaCashCoin (SCC)",
       "address": "0xc26EaFC627624baDf990f8d30116892eD204DB51",
       "price": "$0.000.",
-      "change": "41.31%",
+      "change": "41.06%",
       "isUp": true,
       "volume": "$44.00",
       "marketCap": "--",
@@ -73,11 +73,11 @@
     {
       "coinName": "Curate on BSC (XCUR)",
       "address": "0x708c671aa997da536869b50b6c67fa0c32ce80b2",
-      "price": "$1.460.",
-      "change": "32.22%",
+      "price": "$1.440.",
+      "change": "30.32%",
       "isUp": true,
-      "volume": "$7,359,426.00",
-      "marketCap": "$12,339,915.00",
+      "volume": "$7,300,747.00",
+      "marketCap": "$12,202,803.00",
       "holders": "18,497"
     },
     {
@@ -94,50 +94,50 @@
       "coinName": "SwftCoin (SWFTC)",
       "address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
       "price": "$0.0030",
-      "change": "22.28%",
+      "change": "20.84%",
       "isUp": true,
-      "volume": "$12,476,675.00",
-      "marketCap": "$19,567,184.00",
+      "volume": "$12,580,659.00",
+      "marketCap": "$19,312,589.00",
       "holders": "771"
     },
     {
       "coinName": "Spore (SPORE)",
       "address": "0x33a3d962955a3862c8093d1273344719f03ca17c",
       "price": "$0.000.",
-      "change": "19.70%",
+      "change": "19.67%",
       "isUp": true,
-      "volume": "$2,084.00",
-      "marketCap": "$1,513,368.00",
+      "volume": "$2,086.00",
+      "marketCap": "$1,506,226.00",
       "holders": "146,592"
+    },
+    {
+      "coinName": "MATH Token (MATH)",
+      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
+      "price": "$0.3890",
+      "change": "18.45%",
+      "isUp": true,
+      "volume": "$1,128,085.00",
+      "marketCap": "$57,223,010.00",
+      "holders": "39,679"
     },
     {
       "coinName": "2local Token (2LC)",
       "address": "0x11f6ecc9e2658627e0876212f1078b9f84d3196e",
       "price": "$0.000.",
-      "change": "17.78%",
+      "change": "17.69%",
       "isUp": true,
-      "volume": "$10,193.00",
-      "marketCap": "$50,288.00",
+      "volume": "$10,575.00",
+      "marketCap": "$50,120.00",
       "holders": "27,107"
-    },
-    {
-      "coinName": "MATH Token (MATH)",
-      "address": "0xf218184af829cf2b0019f8e6f0b2423498a36983",
-      "price": "$0.3871",
-      "change": "17.46%",
-      "isUp": true,
-      "volume": "$1,118,841.00",
-      "marketCap": "$57,452,892.00",
-      "holders": "39,679"
     },
     {
       "coinName": "AlpacaToken (ALPACA)",
       "address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-      "price": "$0.6222",
-      "change": "16.89%",
+      "price": "$0.6260",
+      "change": "16.92%",
       "isUp": true,
-      "volume": "$110,513,145.00",
-      "marketCap": "$94,502,659.00",
+      "volume": "$111,010,231.00",
+      "marketCap": "$96,213,805.00",
       "holders": "70,232"
     },
     {
@@ -163,60 +163,50 @@
     {
       "coinName": "PULI INU (PULI)",
       "address": "0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
-      "price": "$0.1047",
-      "change": "14.11%",
+      "price": "$0.1046",
+      "change": "13.45%",
       "isUp": true,
-      "volume": "$195,686.00",
-      "marketCap": "$6,137,845.00",
+      "volume": "$193,657.00",
+      "marketCap": "$6,094,960.00",
       "holders": "7,084"
     },
     {
       "coinName": "DEUS (DEUS)",
       "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
-      "price": "$615.76",
-      "change": "13.09%",
+      "price": "$613.80",
+      "change": "13.05%",
       "isUp": true,
-      "volume": "$3,370,924.00",
-      "marketCap": "$55,942,288.00",
+      "volume": "$3,357,193.00",
+      "marketCap": "$55,726,549.00",
       "holders": "13"
     },
     {
       "coinName": "Ellipsis (EPS)",
       "address": "0xa7f552078dcc247c2684336020c03648500c6d9f",
-      "price": "$0.2232",
-      "change": "12.86%",
+      "price": "$0.2209",
+      "change": "11.57%",
       "isUp": true,
-      "volume": "$49,627,695.00",
-      "marketCap": "$157,809,935.00",
+      "volume": "$49,784,095.00",
+      "marketCap": "$154,838,595.00",
       "holders": "33,458"
     },
     {
       "coinName": "Robust Token (RBT)",
       "address": "0x891e4554227385c5c740f9b483e935e3cbc29f01",
-      "price": "$13.110",
-      "change": "11.28%",
+      "price": "$13.090",
+      "change": "10.95%",
       "isUp": true,
-      "volume": "$3,397.00",
-      "marketCap": "$459,404.00",
+      "volume": "$3,391.00",
+      "marketCap": "$458,261.00",
       "holders": "4,746"
-    },
-    {
-      "coinName": "Hakka Finance on xDai on BSC (HAKKA)",
-      "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
-      "price": "$0.0073",
-      "change": "9.59%",
-      "isUp": true,
-      "volume": "$16,865.00",
-      "marketCap": "$2,138,332.00",
-      "holders": "4,658"
     },
     {
       "coinName": "Sea Token (SEA)",
       "address": "0xfb52fc1f90dd2b070b9cf7ad68ac3d68905643fa",
       "price": "$0.0016",
-      "change": "9.26%",
+      "change": "9.08%",
       "isUp": true,
-      "volume": "$1,221.00",
+      "volume": "$1,215.00",
       "marketCap": "--",
       "holders": "1,496"
     },
@@ -224,9 +214,9 @@
       "coinName": "Lucky Unicorn Token (L99)",
       "address": "0x033c90840F27C83B1Aa0Ffe6Db65C954BF6ABbdd",
       "price": "$0.0012",
-      "change": "8.93%",
+      "change": "8.67%",
       "isUp": true,
-      "volume": "$4,047.00",
+      "volume": "$3,997.00",
       "marketCap": "--",
       "holders": "8,035"
     },
@@ -241,6 +231,16 @@
       "holders": "21,198"
     },
     {
+      "coinName": "Immutable (DARA)",
+      "address": "0x0255af6c9f86f6b0543357bacefa262a2664f80f",
+      "price": "$0.0140",
+      "change": "7.49%",
+      "isUp": true,
+      "volume": "$10,359.00",
+      "marketCap": "--",
+      "holders": "2,515"
+    },
+    {
       "coinName": "Coin98 (C98)",
       "address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
       "price": "$1.4972",
@@ -251,22 +251,12 @@
       "holders": "54,123"
     },
     {
-      "coinName": "Immutable (DARA)",
-      "address": "0x0255af6c9f86f6b0543357bacefa262a2664f80f",
-      "price": "$0.0140",
-      "change": "7.32%",
-      "isUp": true,
-      "volume": "$10,363.00",
-      "marketCap": "--",
-      "holders": "2,515"
-    },
-    {
       "coinName": "WalletNow (WNOW)",
       "address": "0x56aa0237244c67b9a854b4efe8479cca0b105289",
-      "price": "$0.0387",
-      "change": "7.25%",
+      "price": "$0.0388",
+      "change": "7.20%",
       "isUp": true,
-      "volume": "$3,714.00",
+      "volume": "$3,715.00",
       "marketCap": "--",
       "holders": "5,622"
     },
@@ -284,10 +274,10 @@
       "coinName": "Lympo Market Token (LMT)",
       "address": "0x9617857e191354dbea0b714d78bc59e57c411087",
       "price": "$0.0041",
-      "change": "6.80%",
+      "change": "6.92%",
       "isUp": true,
-      "volume": "$15,068.00",
-      "marketCap": "$642,764.00",
+      "volume": "$15,100.00",
+      "marketCap": "$640,307.00",
       "holders": "5,418"
     },
     {
@@ -304,31 +294,41 @@
       "coinName": "UBUToken (UBU)",
       "address": "0xd2ddfba7bb12f6e70c2aab6b6bf9edaef42ed22f",
       "price": "$0.0034",
-      "change": "6.50%",
+      "change": "6.49%",
       "isUp": true,
       "volume": "$4.00",
-      "marketCap": "$27,794.00",
+      "marketCap": "$27,870.00",
       "holders": "3,079"
     },
     {
       "coinName": "binance conflux Flux Protocol (bcFLUX)",
       "address": "0x0747cda49c82d3fc6b06df1822e1de0c16673e9f",
-      "price": "$0.0561",
-      "change": "6.23%",
+      "price": "$0.0560",
+      "change": "6.02%",
       "isUp": true,
       "volume": "$95.00",
       "marketCap": "--",
       "holders": "1,514"
     },
     {
-      "coinName": "Wall Street Games (WSG)",
-      "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
-      "price": "$0.000.",
-      "change": "5.19%",
+      "coinName": "Hakka Finance on xDai on BSC (HAKKA)",
+      "address": "0x1d1eb8e8293222e1a29d2c0e4ce6c0acfd89aaac",
+      "price": "$0.0072",
+      "change": "5.81%",
       "isUp": true,
-      "volume": "$438,580.00",
-      "marketCap": "$5,052,042.00",
-      "holders": "1,445,768"
+      "volume": "$16,524.00",
+      "marketCap": "$2,142,222.00",
+      "holders": "4,658"
+    },
+    {
+      "coinName": "Binance-Peg Compound Coin (COMP)",
+      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
+      "price": "$128.97",
+      "change": "5.36%",
+      "isUp": true,
+      "volume": "$119,807,368.00",
+      "marketCap": "$861,744,691.00",
+      "holders": "10,803"
     },
     {
       "coinName": "Binance Beacon ETH (BETH)",
@@ -341,24 +341,34 @@
       "holders": "9,674"
     },
     {
-      "coinName": "Binance-Peg Compound Coin (COMP)",
-      "address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8",
-      "price": "$128.42",
-      "change": "4.96%",
+      "coinName": "Wall Street Games (WSG)",
+      "address": "0xA58950F05FeA2277d2608748412bf9F802eA4901",
+      "price": "$0.000.",
+      "change": "5.13%",
       "isUp": true,
-      "volume": "$131,005,758.00",
-      "marketCap": "$860,243,635.00",
-      "holders": "10,803"
+      "volume": "$439,852.00",
+      "marketCap": "$5,047,075.00",
+      "holders": "1,445,768"
     },
     {
-      "coinName": "Multiplier (bMXX)",
-      "address": "0x4131b87f74415190425ccd873048c708f8005823",
-      "price": "$0.0125",
-      "change": "4.93%",
+      "coinName": "CryptoBlades Skill Token (SKILL)",
+      "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+      "price": "$5.680.",
+      "change": "4.98%",
       "isUp": true,
-      "volume": "$1,087.00",
-      "marketCap": "$29,211.00",
-      "holders": "5,417"
+      "volume": "$1,506,843.00",
+      "marketCap": "--",
+      "holders": "362,357"
+    },
+    {
+      "coinName": "RAMP DEFI (RAMP)",
+      "address": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
+      "price": "$0.0971",
+      "change": "4.80%",
+      "isUp": true,
+      "volume": "$7,661,331.00",
+      "marketCap": "$39,745,403.00",
+      "holders": "16,702"
     },
     {
       "coinName": "Billion Happiness (BHC)",
@@ -371,36 +381,6 @@
       "holders": "9,647"
     },
     {
-      "coinName": "RAMP DEFI (RAMP)",
-      "address": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
-      "price": "$0.0969",
-      "change": "4.76%",
-      "isUp": true,
-      "volume": "$7,609,160.00",
-      "marketCap": "$40,126,465.00",
-      "holders": "16,702"
-    },
-    {
-      "coinName": "Frax Share (FXS)",
-      "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
-      "price": "$27.860",
-      "change": "4.70%",
-      "isUp": true,
-      "volume": "$23,970,873.00",
-      "marketCap": "$1,621,231,382.00",
-      "holders": "575"
-    },
-    {
-      "coinName": "CryptoBlades Skill Token (SKILL)",
-      "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
-      "price": "$5.670.",
-      "change": "4.67%",
-      "isUp": true,
-      "volume": "$1,502,163.00",
-      "marketCap": "--",
-      "holders": "362,357"
-    },
-    {
       "coinName": "Trust Wallet (TWT)",
       "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
       "price": "$1.0729",
@@ -411,24 +391,14 @@
       "holders": "269,416"
     },
     {
-      "coinName": "VFOX (VFOX)",
-      "address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
-      "price": "$0.7007",
-      "change": "4.63%",
+      "coinName": "Multiplier (bMXX)",
+      "address": "0x4131b87f74415190425ccd873048c708f8005823",
+      "price": "$0.0125",
+      "change": "4.65%",
       "isUp": true,
-      "volume": "$63,874.00",
-      "marketCap": "$14,726,723.00",
-      "holders": "2,620"
-    },
-    {
-      "coinName": "Twinci (TWIN)",
-      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
-      "price": "$0.1793",
-      "change": "4.62%",
-      "isUp": true,
-      "volume": "$58,972.00",
-      "marketCap": "$357,335.00",
-      "holders": "3,212"
+      "volume": "$1,085.00",
+      "marketCap": "$29,082.00",
+      "holders": "5,417"
     },
     {
       "coinName": "DVX (DRIVENx)",
@@ -439,6 +409,16 @@
       "volume": "$3,407.00",
       "marketCap": "--",
       "holders": "5,581"
+    },
+    {
+      "coinName": "Frax Share (FXS)",
+      "address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
+      "price": "$27.820",
+      "change": "4.57%",
+      "isUp": true,
+      "volume": "$24,097,727.00",
+      "marketCap": "$1,603,585,546.00",
+      "holders": "575"
     },
     {
       "coinName": "Measurable Data Token (MDT)",
@@ -467,17 +447,37 @@
       "change": "4.41%",
       "isUp": true,
       "volume": "$2,300.00",
-      "marketCap": "$1,256,581.00",
+      "marketCap": "$1,252,547.00",
       "holders": "7,757"
+    },
+    {
+      "coinName": "Twinci (TWIN)",
+      "address": "0xaf83f292fced83032f52ced45ef7dbddb586441a",
+      "price": "$0.1790",
+      "change": "4.26%",
+      "isUp": true,
+      "volume": "$58,735.00",
+      "marketCap": "$357,715.00",
+      "holders": "3,212"
+    },
+    {
+      "coinName": "VFOX (VFOX)",
+      "address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
+      "price": "$0.6987",
+      "change": "4.23%",
+      "isUp": true,
+      "volume": "$63,695.00",
+      "marketCap": "$14,711,105.00",
+      "holders": "2,620"
     },
     {
       "coinName": "ALICE (ALICE)",
       "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
-      "price": "$6.420.",
-      "change": "4.23%",
+      "price": "$6.400.",
+      "change": "4.02%",
       "isUp": true,
-      "volume": "$122,617,568.00",
-      "marketCap": "$113,138,504.00",
+      "volume": "$122,629,560.00",
+      "marketCap": "$111,074,541.00",
       "holders": "50,998"
     },
     {
@@ -493,11 +493,11 @@
     {
       "coinName": "Binance-Peg Cartesi Token (CTSI)",
       "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
-      "price": "$0.3562",
-      "change": "3.76%",
+      "price": "$0.3558",
+      "change": "3.67%",
       "isUp": true,
-      "volume": "$14,077,091.00",
-      "marketCap": "$187,766,416.00",
+      "volume": "$14,117,004.00",
+      "marketCap": "$184,697,674.00",
       "holders": "5,565"
     }
   ]
