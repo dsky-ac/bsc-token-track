@@ -8,7 +8,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"
   repository_dispatch:
     types: bsc-token-track   
 
@@ -35,7 +35,8 @@ jobs:
       - name: "运行 bsc-token-track"
         run: |
             node index.js   
+      - run : git config --global --add safe.directory /github/workspace      
       - name: Git Commit/Push Changes
-        uses: actions-x/commit@v2
+        uses: EndBug/add-and-commit@v9
         with:
           message: "update data" 
